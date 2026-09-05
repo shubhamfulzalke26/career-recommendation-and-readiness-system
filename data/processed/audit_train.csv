@@ -1,0 +1,1201 @@
+student_id,gender,college_tier,socioeconomic_status,placement_status
+STU_0932,Other,Tier 2,Urban,Placed
+STU_1337,Male,Tier 2,Rural,Placed
+STU_0595,Female,Tier 3,Urban,Not Placed
+STU_0238,Male,Tier 1,Rural,Placed
+STU_1447,Female,Tier 3,Semi-Urban,Not Placed
+STU_1327,Male,Tier 3,Urban,Not Placed
+STU_1226,Male,Tier 2,Urban,Placed
+STU_0931,Male,Tier 1,Urban,Placed
+STU_0610,Male,Tier 1,Rural,Placed
+STU_1191,Female,Tier 1,Rural,Placed
+STU_0212,Male,Tier 2,Semi-Urban,Placed
+STU_0804,Female,Tier 2,Semi-Urban,Placed
+STU_1205,Male,Tier 2,Rural,Placed
+STU_0994,Female,Tier 3,Urban,Placed
+STU_0250,Female,Tier 2,Semi-Urban,Not Placed
+STU_0986,Female,Tier 3,Semi-Urban,Placed
+STU_0736,Male,Tier 2,Semi-Urban,Placed
+STU_0182,Female,Tier 2,Rural,Placed
+STU_0536,Female,Tier 2,Semi-Urban,Placed
+STU_1150,Male,Tier 1,Urban,Placed
+STU_0162,Female,Tier 1,Semi-Urban,Placed
+STU_0108,Male,Tier 2,Semi-Urban,Not Placed
+STU_0901,Male,Tier 1,Urban,Not Placed
+STU_1114,Female,Tier 3,Rural,Placed
+STU_0324,Male,Tier 3,Semi-Urban,Not Placed
+STU_0369,Female,Tier 2,Urban,Not Placed
+STU_0989,Female,Tier 3,Urban,Not Placed
+STU_0779,Male,Tier 1,Rural,Placed
+STU_0997,Female,Tier 2,Rural,Placed
+STU_0547,Female,Tier 3,Urban,Placed
+STU_1409,Male,Tier 2,Semi-Urban,Placed
+STU_0477,Female,Tier 1,Rural,Not Placed
+STU_0607,Male,Tier 3,Urban,Placed
+STU_0756,Female,Tier 3,Rural,Not Placed
+STU_0247,Female,Tier 2,Urban,Not Placed
+STU_0416,Female,Tier 2,Urban,Placed
+STU_1314,Female,Tier 1,Urban,Placed
+STU_0564,Male,Tier 2,Rural,Placed
+STU_1101,Female,Tier 2,Semi-Urban,Placed
+STU_0175,Female,Tier 2,Semi-Urban,Placed
+STU_0889,Male,Tier 2,Semi-Urban,Not Placed
+STU_0345,Female,Tier 2,Rural,Not Placed
+STU_0309,Male,Tier 2,Urban,Not Placed
+STU_1253,Female,Tier 2,Semi-Urban,Not Placed
+STU_1152,Female,Tier 3,Rural,Placed
+STU_0020,Male,Tier 1,Urban,Not Placed
+STU_1348,Male,Tier 3,Urban,Placed
+STU_0059,Female,Tier 1,Semi-Urban,Not Placed
+STU_0315,Male,Tier 1,Rural,Not Placed
+STU_0031,Female,Tier 2,Rural,Placed
+STU_1452,Female,Tier 2,Urban,Placed
+STU_0483,Female,Tier 3,Semi-Urban,Placed
+STU_0864,Male,Tier 1,Semi-Urban,Placed
+STU_0935,Male,Tier 1,Rural,Placed
+STU_1439,Male,Tier 1,Rural,Not Placed
+STU_0455,Male,Tier 2,Semi-Urban,Not Placed
+STU_0131,Female,Tier 3,Semi-Urban,Not Placed
+STU_0407,Female,Tier 2,Urban,Placed
+STU_0206,Female,Tier 3,Urban,Placed
+STU_1184,Male,Tier 1,Urban,Placed
+STU_0109,Female,Tier 2,Semi-Urban,Not Placed
+STU_1366,Female,Tier 2,Semi-Urban,Placed
+STU_0950,Male,Tier 2,Semi-Urban,Placed
+STU_1012,Male,Tier 1,Urban,Placed
+STU_1448,Female,Tier 3,Urban,Not Placed
+STU_1057,Female,Tier 1,Urban,Placed
+STU_0981,Male,Tier 2,Rural,Not Placed
+STU_1331,Female,Tier 3,Semi-Urban,Not Placed
+STU_1180,Male,Tier 3,Rural,Not Placed
+STU_1414,Other,Tier 3,Urban,Placed
+STU_0157,Male,Tier 1,Semi-Urban,Not Placed
+STU_0359,Male,Tier 3,Urban,Not Placed
+STU_0829,Male,Tier 3,Urban,Not Placed
+STU_1048,Male,Tier 1,Urban,Placed
+STU_0485,Male,Tier 1,Urban,Placed
+STU_1074,Male,Tier 1,Urban,Placed
+STU_0765,Female,Tier 1,Rural,Placed
+STU_0144,Female,Tier 3,Urban,Not Placed
+STU_0190,Female,Tier 2,Semi-Urban,Not Placed
+STU_0859,Female,Tier 1,Urban,Placed
+STU_0213,Male,Tier 2,Urban,Placed
+STU_0600,Male,Tier 3,Semi-Urban,Not Placed
+STU_0075,Other,Tier 2,Urban,Not Placed
+STU_1084,Male,Tier 1,Rural,Not Placed
+STU_0311,Male,Tier 2,Urban,Placed
+STU_0676,Male,Tier 2,Semi-Urban,Placed
+STU_1071,Male,Tier 2,Urban,Not Placed
+STU_0246,Female,Tier 1,Urban,Placed
+STU_1219,Male,Tier 1,Rural,Not Placed
+STU_0783,Female,Tier 2,Semi-Urban,Placed
+STU_0353,Male,Tier 1,Urban,Not Placed
+STU_1365,Other,Tier 2,Urban,Placed
+STU_0230,Female,Tier 2,Urban,Not Placed
+STU_1173,Female,Tier 2,Semi-Urban,Not Placed
+STU_0886,Male,Tier 2,Semi-Urban,Placed
+STU_0790,Male,Tier 2,Rural,Placed
+STU_0911,Male,Tier 2,Semi-Urban,Placed
+STU_0050,Male,Tier 3,Semi-Urban,Placed
+STU_1410,Male,Tier 2,Urban,Not Placed
+STU_0216,Female,Tier 2,Urban,Placed
+STU_1438,Male,Tier 2,Semi-Urban,Placed
+STU_0691,Female,Tier 2,Semi-Urban,Not Placed
+STU_0470,Female,Tier 3,Semi-Urban,Not Placed
+STU_0715,Male,Tier 3,Semi-Urban,Not Placed
+STU_1112,Male,Tier 2,Rural,Not Placed
+STU_0593,Female,Tier 2,Urban,Placed
+STU_0749,Male,Tier 3,Rural,Not Placed
+STU_0448,Female,Tier 1,Urban,Placed
+STU_0008,Male,Tier 2,Semi-Urban,Placed
+STU_0375,Female,Tier 3,Semi-Urban,Not Placed
+STU_1426,Female,Tier 2,Urban,Not Placed
+STU_1391,Female,Tier 1,Semi-Urban,Not Placed
+STU_1336,Male,Tier 2,Urban,Placed
+STU_1445,Male,Tier 3,Urban,Not Placed
+STU_1383,Male,Tier 3,Rural,Placed
+STU_1361,Female,Tier 2,Urban,Not Placed
+STU_0148,Male,Tier 3,Rural,Placed
+STU_1309,Male,Tier 3,Rural,Not Placed
+STU_0447,Male,Tier 2,Urban,Placed
+STU_0568,Male,Tier 3,Rural,Placed
+STU_0535,Female,Tier 2,Semi-Urban,Placed
+STU_1089,Male,Tier 2,Rural,Placed
+STU_1322,Female,Tier 2,Rural,Placed
+STU_0392,Female,Tier 2,Semi-Urban,Not Placed
+STU_0656,Female,Tier 3,Semi-Urban,Not Placed
+STU_0346,Male,Tier 3,Rural,Not Placed
+STU_1097,Female,Tier 3,Semi-Urban,Placed
+STU_1109,Male,Tier 2,Semi-Urban,Not Placed
+STU_1280,Male,Tier 1,Rural,Not Placed
+STU_0746,Male,Tier 1,Urban,Placed
+STU_0937,Male,Tier 2,Rural,Not Placed
+STU_1118,Male,Tier 3,Semi-Urban,Not Placed
+STU_0370,Male,Tier 1,Urban,Placed
+STU_1091,Male,Tier 3,Urban,Not Placed
+STU_1093,Female,Tier 1,Urban,Placed
+STU_1085,Female,Tier 2,Semi-Urban,Placed
+STU_0677,Male,Tier 1,Semi-Urban,Not Placed
+STU_0728,Male,Tier 3,Urban,Placed
+STU_1480,Female,Tier 1,Rural,Placed
+STU_0836,Male,Tier 2,Semi-Urban,Placed
+STU_1087,Male,Tier 2,Semi-Urban,Placed
+STU_1293,Female,Tier 2,Semi-Urban,Placed
+STU_1182,Female,Tier 2,Urban,Not Placed
+STU_0079,Male,Tier 2,Semi-Urban,Not Placed
+STU_0331,Male,Tier 2,Urban,Not Placed
+STU_1134,Male,Tier 3,Semi-Urban,Not Placed
+STU_1333,Female,Tier 3,Semi-Urban,Not Placed
+STU_1405,Male,Tier 1,Semi-Urban,Placed
+STU_0614,Male,Tier 2,Urban,Not Placed
+STU_0319,Male,Tier 2,Rural,Not Placed
+STU_0758,Male,Tier 2,Semi-Urban,Placed
+STU_0929,Male,Tier 3,Rural,Not Placed
+STU_0835,Female,Tier 2,Urban,Placed
+STU_0961,Female,Tier 2,Urban,Placed
+STU_0993,Male,Tier 2,Rural,Not Placed
+STU_0387,Female,Tier 3,Urban,Not Placed
+STU_0521,Female,Tier 1,Urban,Placed
+STU_0044,Female,Tier 2,Urban,Placed
+STU_0127,Other,Tier 3,Semi-Urban,Not Placed
+STU_1404,Female,Tier 1,Urban,Placed
+STU_0752,Male,Tier 2,Urban,Placed
+STU_0480,Female,Tier 3,Semi-Urban,Placed
+STU_0269,Female,Tier 2,Urban,Not Placed
+STU_0328,Female,Tier 2,Semi-Urban,Not Placed
+STU_1035,Male,Tier 3,Urban,Not Placed
+STU_0725,Female,Tier 1,Urban,Placed
+STU_0299,Male,Tier 2,Urban,Placed
+STU_0523,Female,Tier 2,Rural,Not Placed
+STU_1270,Male,Tier 2,Urban,Not Placed
+STU_1462,Male,Tier 1,Rural,Placed
+STU_0061,Female,Tier 1,Semi-Urban,Not Placed
+STU_1232,Male,Tier 2,Semi-Urban,Not Placed
+STU_0494,Female,Tier 1,Urban,Placed
+STU_0192,Female,Tier 1,Semi-Urban,Not Placed
+STU_0189,Male,Tier 1,Semi-Urban,Placed
+STU_0188,Male,Tier 2,Urban,Placed
+STU_0531,Male,Tier 1,Urban,Not Placed
+STU_1252,Male,Tier 2,Urban,Placed
+STU_0116,Male,Tier 2,Urban,Placed
+STU_0914,Other,Tier 2,Semi-Urban,Placed
+STU_0160,Other,Tier 3,Urban,Not Placed
+STU_0413,Female,Tier 1,Urban,Placed
+STU_0249,Female,Tier 2,Urban,Placed
+STU_0524,Female,Tier 1,Semi-Urban,Placed
+STU_0456,Male,Tier 2,Urban,Placed
+STU_0787,Female,Tier 2,Urban,Placed
+STU_0890,Male,Tier 3,Rural,Placed
+STU_0403,Male,Tier 1,Urban,Not Placed
+STU_0401,Male,Tier 3,Urban,Not Placed
+STU_0540,Male,Tier 3,Rural,Placed
+STU_0043,Female,Tier 1,Urban,Not Placed
+STU_0990,Female,Tier 3,Rural,Not Placed
+STU_0724,Male,Tier 3,Semi-Urban,Not Placed
+STU_0027,Female,Tier 2,Urban,Not Placed
+STU_0927,Male,Tier 2,Semi-Urban,Not Placed
+STU_1019,Female,Tier 1,Urban,Placed
+STU_1092,Male,Tier 1,Urban,Placed
+STU_0987,Other,Tier 2,Urban,Not Placed
+STU_0807,Female,Tier 3,Urban,Not Placed
+STU_1332,Female,Tier 2,Urban,Placed
+STU_0855,Male,Tier 2,Semi-Urban,Placed
+STU_0191,Male,Tier 2,Semi-Urban,Not Placed
+STU_1237,Male,Tier 1,Semi-Urban,Placed
+STU_1459,Male,Tier 2,Urban,Not Placed
+STU_1198,Female,Tier 2,Semi-Urban,Placed
+STU_0952,Male,Tier 2,Semi-Urban,Placed
+STU_0168,Female,Tier 2,Urban,Not Placed
+STU_0618,Male,Tier 3,Rural,Not Placed
+STU_0185,Male,Tier 3,Urban,Placed
+STU_1208,Male,Tier 1,Semi-Urban,Placed
+STU_1002,Male,Tier 2,Urban,Placed
+STU_0946,Male,Tier 1,Semi-Urban,Placed
+STU_0055,Male,Tier 2,Rural,Placed
+STU_0648,Male,Tier 1,Urban,Placed
+STU_0558,Male,Tier 3,Urban,Not Placed
+STU_1470,Female,Tier 1,Urban,Not Placed
+STU_1358,Female,Tier 2,Urban,Not Placed
+STU_0364,Female,Tier 2,Urban,Not Placed
+STU_1315,Female,Tier 2,Urban,Placed
+STU_0464,Male,Tier 1,Semi-Urban,Placed
+STU_0458,Male,Tier 3,Semi-Urban,Not Placed
+STU_0429,Male,Tier 1,Urban,Placed
+STU_0282,Female,Tier 3,Semi-Urban,Placed
+STU_0628,Female,Tier 2,Semi-Urban,Not Placed
+STU_0056,Male,Tier 2,Semi-Urban,Placed
+STU_0040,Male,Tier 3,Semi-Urban,Placed
+STU_0113,Female,Tier 3,Rural,Not Placed
+STU_0953,Female,Tier 2,Semi-Urban,Placed
+STU_0898,Male,Tier 2,Semi-Urban,Placed
+STU_1149,Male,Tier 3,Semi-Urban,Not Placed
+STU_0366,Female,Tier 1,Rural,Placed
+STU_1329,Female,Tier 3,Semi-Urban,Placed
+STU_0857,Female,Tier 3,Urban,Not Placed
+STU_0386,Male,Tier 3,Rural,Not Placed
+STU_1129,Male,Tier 3,Rural,Not Placed
+STU_0988,Male,Tier 1,Urban,Placed
+STU_0382,Female,Tier 2,Urban,Placed
+STU_1428,Female,Tier 3,Rural,Not Placed
+STU_0657,Male,Tier 3,Urban,Not Placed
+STU_0875,Female,Tier 1,Rural,Placed
+STU_1356,Male,Tier 1,Rural,Placed
+STU_0106,Female,Tier 2,Semi-Urban,Not Placed
+STU_0174,Male,Tier 2,Urban,Not Placed
+STU_0203,Male,Tier 1,Urban,Placed
+STU_0115,Male,Tier 2,Urban,Placed
+STU_1275,Female,Tier 3,Semi-Urban,Placed
+STU_0037,Female,Tier 3,Urban,Not Placed
+STU_1453,Male,Tier 2,Rural,Not Placed
+STU_0152,Female,Tier 2,Rural,Placed
+STU_1464,Male,Tier 3,Urban,Placed
+STU_0786,Male,Tier 2,Urban,Placed
+STU_1102,Male,Tier 1,Urban,Placed
+STU_0442,Male,Tier 1,Semi-Urban,Placed
+STU_0072,Male,Tier 2,Urban,Not Placed
+STU_0229,Male,Tier 1,Urban,Placed
+STU_0436,Female,Tier 1,Rural,Placed
+STU_0840,Male,Tier 1,Urban,Not Placed
+STU_0402,Male,Tier 1,Semi-Urban,Placed
+STU_1254,Female,Tier 1,Rural,Placed
+STU_1116,Male,Tier 2,Rural,Not Placed
+STU_1379,Female,Tier 2,Semi-Urban,Not Placed
+STU_0342,Male,Tier 1,Rural,Placed
+STU_0320,Male,Tier 3,Semi-Urban,Not Placed
+STU_0181,Female,Tier 2,Urban,Placed
+STU_1187,Female,Tier 1,Rural,Placed
+STU_1255,Female,Tier 2,Urban,Placed
+STU_0355,Male,Tier 2,Urban,Not Placed
+STU_0897,Male,Tier 1,Rural,Not Placed
+STU_1497,Male,Tier 1,Urban,Placed
+STU_0649,Male,Tier 2,Urban,Not Placed
+STU_0090,Male,Tier 3,Semi-Urban,Not Placed
+STU_0773,Female,Tier 3,Urban,Placed
+STU_0092,Female,Tier 2,Rural,Placed
+STU_1123,Male,Tier 2,Urban,Placed
+STU_0574,Male,Tier 2,Rural,Placed
+STU_0278,Female,Tier 2,Rural,Placed
+STU_1201,Female,Tier 1,Urban,Not Placed
+STU_0852,Female,Tier 3,Rural,Not Placed
+STU_1105,Female,Tier 3,Semi-Urban,Not Placed
+STU_0702,Other,Tier 3,Urban,Placed
+STU_0029,Male,Tier 2,Semi-Urban,Placed
+STU_0822,Male,Tier 1,Urban,Not Placed
+STU_1072,Female,Tier 1,Semi-Urban,Placed
+STU_1321,Female,Tier 3,Rural,Not Placed
+STU_1090,Female,Tier 2,Urban,Placed
+STU_0739,Female,Tier 3,Semi-Urban,Placed
+STU_1228,Female,Tier 2,Urban,Not Placed
+STU_0271,Male,Tier 3,Rural,Placed
+STU_1310,Male,Tier 1,Rural,Placed
+STU_0514,Male,Tier 1,Semi-Urban,Not Placed
+STU_1127,Male,Tier 2,Rural,Not Placed
+STU_0999,Female,Tier 3,Urban,Placed
+STU_0995,Female,Tier 1,Urban,Not Placed
+STU_0143,Female,Tier 2,Urban,Not Placed
+STU_1193,Female,Tier 1,Semi-Urban,Placed
+STU_0925,Female,Tier 3,Semi-Urban,Not Placed
+STU_1257,Male,Tier 2,Urban,Not Placed
+STU_0584,Female,Tier 3,Semi-Urban,Placed
+STU_0381,Female,Tier 3,Rural,Placed
+STU_0100,Female,Tier 1,Semi-Urban,Placed
+STU_0178,Female,Tier 2,Urban,Not Placed
+STU_1402,Male,Tier 3,Urban,Placed
+STU_0091,Female,Tier 2,Rural,Placed
+STU_0195,Male,Tier 2,Rural,Not Placed
+STU_1479,Male,Tier 2,Rural,Not Placed
+STU_0695,Male,Tier 2,Semi-Urban,Not Placed
+STU_1262,Male,Tier 3,Urban,Placed
+STU_1119,Male,Tier 2,Urban,Not Placed
+STU_0802,Male,Tier 3,Semi-Urban,Not Placed
+STU_0553,Male,Tier 2,Urban,Not Placed
+STU_1181,Male,Tier 1,Semi-Urban,Placed
+STU_0142,Male,Tier 2,Urban,Not Placed
+STU_1178,Female,Tier 1,Urban,Placed
+STU_1163,Male,Tier 2,Urban,Not Placed
+STU_1494,Female,Tier 3,Urban,Not Placed
+STU_0415,Female,Tier 1,Urban,Placed
+STU_0193,Male,Tier 2,Urban,Placed
+STU_0073,Male,Tier 2,Rural,Not Placed
+STU_0048,Male,Tier 1,Urban,Placed
+STU_0812,Female,Tier 3,Rural,Not Placed
+STU_1236,Male,Tier 2,Rural,Not Placed
+STU_0917,Female,Tier 2,Urban,Placed
+STU_0347,Female,Tier 2,Semi-Urban,Placed
+STU_1269,Male,Tier 2,Semi-Urban,Not Placed
+STU_1222,Male,Tier 2,Urban,Not Placed
+STU_0732,Female,Tier 1,Semi-Urban,Placed
+STU_0526,Female,Tier 3,Rural,Placed
+STU_0903,Male,Tier 1,Semi-Urban,Placed
+STU_0939,Female,Tier 1,Semi-Urban,Placed
+STU_0130,Female,Tier 2,Semi-Urban,Not Placed
+STU_0883,Male,Tier 2,Rural,Not Placed
+STU_0412,Female,Tier 1,Semi-Urban,Not Placed
+STU_0604,Female,Tier 1,Urban,Not Placed
+STU_1431,Other,Tier 2,Rural,Placed
+STU_1044,Female,Tier 3,Urban,Not Placed
+STU_0544,Male,Tier 1,Semi-Urban,Placed
+STU_0321,Female,Tier 1,Rural,Placed
+STU_0111,Male,Tier 2,Semi-Urban,Placed
+STU_0907,Male,Tier 2,Semi-Urban,Not Placed
+STU_0417,Female,Tier 3,Semi-Urban,Not Placed
+STU_0332,Male,Tier 1,Rural,Placed
+STU_0233,Male,Tier 2,Semi-Urban,Placed
+STU_0515,Female,Tier 1,Semi-Urban,Placed
+STU_0645,Male,Tier 2,Semi-Urban,Not Placed
+STU_0492,Other,Tier 1,Semi-Urban,Placed
+STU_0690,Male,Tier 2,Urban,Not Placed
+STU_0184,Female,Tier 3,Rural,Placed
+STU_0944,Male,Tier 1,Urban,Placed
+STU_1042,Female,Tier 1,Urban,Placed
+STU_0853,Male,Tier 3,Rural,Not Placed
+STU_0472,Female,Tier 2,Urban,Not Placed
+STU_1265,Female,Tier 1,Rural,Not Placed
+STU_0301,Male,Tier 1,Semi-Urban,Placed
+STU_1231,Male,Tier 3,Urban,Not Placed
+STU_0135,Female,Tier 1,Semi-Urban,Placed
+STU_0998,Male,Tier 2,Semi-Urban,Not Placed
+STU_0808,Male,Tier 2,Semi-Urban,Placed
+STU_0578,Female,Tier 2,Rural,Not Placed
+STU_0234,Female,Tier 3,Urban,Placed
+STU_0849,Male,Tier 3,Urban,Placed
+STU_0318,Male,Tier 2,Rural,Placed
+STU_0408,Female,Tier 2,Urban,Placed
+STU_0782,Male,Tier 1,Urban,Placed
+STU_0209,Male,Tier 1,Semi-Urban,Placed
+STU_1325,Female,Tier 2,Rural,Placed
+STU_0954,Female,Tier 3,Urban,Not Placed
+STU_1278,Female,Tier 3,Semi-Urban,Not Placed
+STU_0490,Male,Tier 2,Semi-Urban,Placed
+STU_1376,Male,Tier 1,Urban,Placed
+STU_0104,Female,Tier 3,Semi-Urban,Placed
+STU_1299,Female,Tier 1,Semi-Urban,Placed
+STU_0280,Female,Tier 2,Urban,Placed
+STU_0468,Male,Tier 3,Urban,Not Placed
+STU_0300,Male,Tier 1,Urban,Placed
+STU_0795,Female,Tier 3,Semi-Urban,Not Placed
+STU_0827,Female,Tier 2,Urban,Not Placed
+STU_0266,Male,Tier 3,Semi-Urban,Not Placed
+STU_1038,Female,Tier 1,Urban,Placed
+STU_1256,Male,Tier 3,Urban,Placed
+STU_0599,Male,Tier 3,Semi-Urban,Not Placed
+STU_1060,Female,Tier 2,Rural,Placed
+STU_0563,Other,Tier 1,Urban,Placed
+STU_1350,Other,Tier 2,Rural,Not Placed
+STU_0380,Female,Tier 1,Urban,Not Placed
+STU_0964,Male,Tier 2,Urban,Not Placed
+STU_1070,Female,Tier 1,Urban,Placed
+STU_1099,Female,Tier 2,Semi-Urban,Not Placed
+STU_0876,Male,Tier 2,Semi-Urban,Placed
+STU_1281,Male,Tier 1,Semi-Urban,Placed
+STU_1063,Female,Tier 2,Urban,Placed
+STU_1306,Male,Tier 2,Urban,Placed
+STU_0228,Female,Tier 2,Rural,Placed
+STU_1052,Male,Tier 2,Semi-Urban,Placed
+STU_1492,Female,Tier 3,Rural,Placed
+STU_1487,Female,Tier 3,Urban,Not Placed
+STU_0775,Female,Tier 1,Urban,Placed
+STU_0688,Male,Tier 2,Semi-Urban,Not Placed
+STU_1489,Female,Tier 3,Semi-Urban,Not Placed
+STU_0627,Male,Tier 3,Urban,Placed
+STU_1260,Male,Tier 3,Urban,Not Placed
+STU_0487,Male,Tier 1,Urban,Not Placed
+STU_0310,Male,Tier 2,Rural,Placed
+STU_0776,Male,Tier 1,Rural,Not Placed
+STU_0721,Male,Tier 2,Semi-Urban,Placed
+STU_1393,Female,Tier 3,Urban,Placed
+STU_0862,Male,Tier 1,Semi-Urban,Placed
+STU_1425,Male,Tier 2,Rural,Placed
+STU_0287,Male,Tier 1,Rural,Placed
+STU_0516,Male,Tier 1,Urban,Placed
+STU_0042,Male,Tier 1,Urban,Placed
+STU_1159,Female,Tier 2,Urban,Not Placed
+STU_1094,Female,Tier 3,Urban,Not Placed
+STU_1168,Female,Tier 2,Semi-Urban,Placed
+STU_0943,Female,Tier 2,Urban,Placed
+STU_0207,Male,Tier 1,Urban,Not Placed
+STU_0082,Female,Tier 3,Semi-Urban,Placed
+STU_0137,Male,Tier 3,Semi-Urban,Placed
+STU_1167,Male,Tier 1,Rural,Placed
+STU_0879,Male,Tier 2,Urban,Not Placed
+STU_0136,Female,Tier 2,Semi-Urban,Not Placed
+STU_0080,Female,Tier 2,Semi-Urban,Placed
+STU_0361,Female,Tier 1,Urban,Placed
+STU_0815,Male,Tier 2,Rural,Not Placed
+STU_0156,Female,Tier 3,Semi-Urban,Not Placed
+STU_0262,Male,Tier 2,Urban,Placed
+STU_0098,Female,Tier 2,Rural,Placed
+STU_0240,Male,Tier 1,Urban,Not Placed
+STU_0920,Female,Tier 1,Semi-Urban,Not Placed
+STU_0434,Male,Tier 2,Semi-Urban,Placed
+STU_1491,Female,Tier 2,Urban,Not Placed
+STU_0450,Male,Tier 2,Urban,Placed
+STU_0894,Female,Tier 3,Urban,Not Placed
+STU_0110,Male,Tier 1,Semi-Urban,Placed
+STU_0723,Male,Tier 2,Semi-Urban,Not Placed
+STU_0788,Female,Tier 3,Urban,Not Placed
+STU_0908,Male,Tier 2,Urban,Placed
+STU_0224,Male,Tier 2,Semi-Urban,Not Placed
+STU_1339,Male,Tier 3,Rural,Placed
+STU_0294,Female,Tier 2,Urban,Placed
+STU_1066,Male,Tier 2,Rural,Placed
+STU_0882,Male,Tier 2,Urban,Not Placed
+STU_0306,Male,Tier 2,Urban,Placed
+STU_0918,Female,Tier 2,Urban,Placed
+STU_0363,Female,Tier 2,Semi-Urban,Placed
+STU_0780,Male,Tier 2,Urban,Placed
+STU_0396,Male,Tier 2,Rural,Placed
+STU_0517,Male,Tier 2,Urban,Placed
+STU_0352,Male,Tier 2,Semi-Urban,Not Placed
+STU_0260,Male,Tier 1,Urban,Not Placed
+STU_1472,Female,Tier 3,Rural,Placed
+STU_0742,Female,Tier 3,Semi-Urban,Not Placed
+STU_0771,Female,Tier 1,Urban,Not Placed
+STU_1466,Male,Tier 3,Semi-Urban,Not Placed
+STU_0039,Male,Tier 1,Urban,Placed
+STU_0145,Female,Tier 2,Semi-Urban,Not Placed
+STU_0616,Male,Tier 1,Rural,Not Placed
+STU_0899,Male,Tier 1,Rural,Placed
+STU_1441,Male,Tier 1,Semi-Urban,Not Placed
+STU_0378,Female,Tier 2,Rural,Not Placed
+STU_0291,Male,Tier 2,Semi-Urban,Placed
+STU_1375,Male,Tier 2,Urban,Not Placed
+STU_0957,Female,Tier 2,Urban,Placed
+STU_0512,Female,Tier 2,Semi-Urban,Not Placed
+STU_0046,Male,Tier 1,Urban,Placed
+STU_0445,Female,Tier 2,Rural,Not Placed
+STU_1303,Female,Tier 2,Urban,Not Placed
+STU_1473,Female,Tier 2,Semi-Urban,Placed
+STU_0985,Female,Tier 2,Semi-Urban,Placed
+STU_1468,Male,Tier 2,Urban,Not Placed
+STU_0635,Male,Tier 2,Urban,Placed
+STU_1207,Male,Tier 3,Urban,Not Placed
+STU_1243,Male,Tier 2,Semi-Urban,Not Placed
+STU_1202,Female,Tier 2,Urban,Placed
+STU_0867,Male,Tier 3,Semi-Urban,Placed
+STU_1157,Female,Tier 2,Urban,Placed
+STU_0612,Other,Tier 2,Urban,Placed
+STU_1288,Female,Tier 2,Urban,Not Placed
+STU_0605,Male,Tier 1,Semi-Urban,Placed
+STU_1223,Male,Tier 2,Urban,Placed
+STU_0587,Male,Tier 1,Rural,Placed
+STU_0667,Male,Tier 3,Semi-Urban,Not Placed
+STU_0128,Female,Tier 2,Semi-Urban,Placed
+STU_1025,Male,Tier 1,Semi-Urban,Not Placed
+STU_1328,Male,Tier 2,Urban,Placed
+STU_1427,Male,Tier 2,Rural,Not Placed
+STU_0843,Female,Tier 1,Urban,Not Placed
+STU_0789,Female,Tier 1,Rural,Placed
+STU_0713,Male,Tier 2,Rural,Not Placed
+STU_0992,Male,Tier 1,Urban,Placed
+STU_0314,Female,Tier 2,Urban,Placed
+STU_0611,Male,Tier 2,Urban,Placed
+STU_0745,Male,Tier 2,Semi-Urban,Not Placed
+STU_1247,Male,Tier 1,Semi-Urban,Not Placed
+STU_1397,Male,Tier 3,Urban,Not Placed
+STU_0975,Female,Tier 2,Rural,Not Placed
+STU_0674,Female,Tier 3,Urban,Not Placed
+STU_1407,Female,Tier 2,Semi-Urban,Not Placed
+STU_0222,Male,Tier 2,Urban,Placed
+STU_0326,Male,Tier 2,Semi-Urban,Placed
+STU_1043,Male,Tier 1,Semi-Urban,Placed
+STU_1106,Male,Tier 2,Urban,Placed
+STU_1493,Female,Tier 3,Urban,Placed
+STU_1363,Male,Tier 3,Semi-Urban,Placed
+STU_0763,Female,Tier 1,Urban,Not Placed
+STU_0673,Male,Tier 2,Semi-Urban,Placed
+STU_0062,Male,Tier 2,Semi-Urban,Not Placed
+STU_0263,Female,Tier 2,Semi-Urban,Not Placed
+STU_0405,Female,Tier 2,Urban,Placed
+STU_0718,Female,Tier 1,Semi-Urban,Placed
+STU_0851,Female,Tier 2,Semi-Urban,Not Placed
+STU_0254,Female,Tier 3,Rural,Placed
+STU_0194,Male,Tier 3,Urban,Placed
+STU_0508,Male,Tier 3,Rural,Not Placed
+STU_0860,Male,Tier 2,Urban,Not Placed
+STU_1481,Female,Tier 1,Urban,Placed
+STU_0694,Female,Tier 1,Semi-Urban,Placed
+STU_1179,Male,Tier 2,Urban,Not Placed
+STU_1488,Male,Tier 3,Urban,Not Placed
+STU_0094,Male,Tier 2,Semi-Urban,Placed
+STU_0019,Male,Tier 1,Semi-Urban,Placed
+STU_0351,Female,Tier 1,Urban,Not Placed
+STU_0277,Female,Tier 2,Urban,Not Placed
+STU_0617,Male,Tier 2,Urban,Not Placed
+STU_0170,Female,Tier 2,Rural,Placed
+STU_0554,Female,Tier 3,Semi-Urban,Placed
+STU_0904,Female,Tier 2,Semi-Urban,Placed
+STU_1131,Female,Tier 3,Urban,Placed
+STU_0323,Female,Tier 3,Urban,Placed
+STU_0499,Female,Tier 2,Semi-Urban,Not Placed
+STU_0533,Female,Tier 3,Semi-Urban,Placed
+STU_1460,Male,Tier 3,Rural,Placed
+STU_0630,Other,Tier 3,Urban,Placed
+STU_0488,Male,Tier 1,Semi-Urban,Not Placed
+STU_0235,Male,Tier 3,Urban,Not Placed
+STU_0761,Female,Tier 1,Rural,Not Placed
+STU_0910,Male,Tier 2,Rural,Placed
+STU_0295,Female,Tier 3,Urban,Not Placed
+STU_0805,Female,Tier 2,Urban,Placed
+STU_0150,Female,Tier 1,Semi-Urban,Placed
+STU_1340,Female,Tier 3,Semi-Urban,Placed
+STU_0333,Male,Tier 2,Semi-Urban,Not Placed
+STU_0893,Male,Tier 1,Rural,Not Placed
+STU_0058,Female,Tier 2,Urban,Placed
+STU_0350,Male,Tier 2,Urban,Placed
+STU_0367,Female,Tier 2,Semi-Urban,Placed
+STU_0258,Male,Tier 2,Urban,Placed
+STU_0588,Male,Tier 3,Rural,Not Placed
+STU_0971,Male,Tier 2,Semi-Urban,Placed
+STU_1274,Female,Tier 2,Urban,Not Placed
+STU_1292,Female,Tier 3,Urban,Not Placed
+STU_0087,Female,Tier 2,Urban,Placed
+STU_1446,Male,Tier 1,Urban,Not Placed
+STU_0400,Male,Tier 1,Urban,Not Placed
+STU_0968,Male,Tier 2,Semi-Urban,Placed
+STU_1199,Female,Tier 1,Urban,Not Placed
+STU_0063,Female,Tier 3,Urban,Not Placed
+STU_1279,Male,Tier 2,Rural,Placed
+STU_0297,Male,Tier 2,Urban,Placed
+STU_1305,Male,Tier 2,Urban,Placed
+STU_0284,Male,Tier 2,Semi-Urban,Not Placed
+STU_0743,Male,Tier 1,Rural,Placed
+STU_0018,Male,Tier 3,Semi-Urban,Placed
+STU_0427,Male,Tier 3,Semi-Urban,Not Placed
+STU_1045,Female,Tier 2,Urban,Not Placed
+STU_0650,Male,Tier 1,Urban,Placed
+STU_1081,Male,Tier 2,Urban,Not Placed
+STU_1162,Female,Tier 2,Semi-Urban,Placed
+STU_0747,Female,Tier 2,Semi-Urban,Not Placed
+STU_0081,Male,Tier 1,Urban,Placed
+STU_0276,Female,Tier 1,Rural,Placed
+STU_1200,Male,Tier 2,Rural,Placed
+STU_0196,Female,Tier 2,Rural,Not Placed
+STU_0134,Male,Tier 1,Rural,Placed
+STU_0444,Male,Tier 2,Semi-Urban,Not Placed
+STU_0562,Female,Tier 2,Semi-Urban,Not Placed
+STU_0704,Male,Tier 2,Semi-Urban,Not Placed
+STU_0887,Female,Tier 1,Urban,Placed
+STU_1027,Female,Tier 2,Semi-Urban,Not Placed
+STU_1467,Female,Tier 2,Urban,Placed
+STU_1490,Female,Tier 2,Urban,Placed
+STU_1079,Male,Tier 1,Urban,Not Placed
+STU_1000,Male,Tier 2,Semi-Urban,Placed
+STU_0441,Other,Tier 2,Urban,Not Placed
+STU_0603,Male,Tier 3,Urban,Not Placed
+STU_0797,Female,Tier 2,Semi-Urban,Not Placed
+STU_1151,Female,Tier 2,Urban,Placed
+STU_1241,Male,Tier 2,Rural,Not Placed
+STU_0909,Female,Tier 1,Rural,Placed
+STU_0443,Female,Tier 3,Urban,Not Placed
+STU_1415,Male,Tier 3,Semi-Urban,Placed
+STU_1359,Female,Tier 3,Urban,Not Placed
+STU_0486,Female,Tier 3,Urban,Placed
+STU_0173,Other,Tier 2,Urban,Placed
+STU_0751,Female,Tier 1,Urban,Placed
+STU_1103,Female,Tier 2,Semi-Urban,Placed
+STU_0866,Female,Tier 3,Urban,Placed
+STU_0581,Male,Tier 2,Urban,Placed
+STU_0036,Male,Tier 2,Urban,Placed
+STU_1215,Female,Tier 3,Semi-Urban,Placed
+STU_0155,Male,Tier 3,Urban,Placed
+STU_0016,Female,Tier 2,Urban,Placed
+STU_0101,Female,Tier 3,Urban,Placed
+STU_1385,Male,Tier 2,Rural,Placed
+STU_0930,Female,Tier 3,Rural,Not Placed
+STU_1371,Male,Tier 2,Urban,Placed
+STU_0589,Female,Tier 1,Semi-Urban,Placed
+STU_1166,Male,Tier 3,Urban,Placed
+STU_0099,Other,Tier 3,Urban,Not Placed
+STU_0200,Male,Tier 2,Urban,Placed
+STU_0878,Male,Tier 1,Semi-Urban,Placed
+STU_1351,Female,Tier 2,Rural,Not Placed
+STU_0766,Male,Tier 2,Urban,Not Placed
+STU_0972,Female,Tier 1,Rural,Placed
+STU_0317,Female,Tier 3,Rural,Placed
+STU_0248,Female,Tier 3,Urban,Placed
+STU_1023,Female,Tier 2,Rural,Placed
+STU_0693,Male,Tier 2,Rural,Not Placed
+STU_1266,Female,Tier 1,Rural,Placed
+STU_1382,Male,Tier 3,Semi-Urban,Not Placed
+STU_1142,Female,Tier 1,Rural,Not Placed
+STU_1137,Female,Tier 2,Urban,Not Placed
+STU_0658,Female,Tier 3,Urban,Not Placed
+STU_0532,Female,Tier 1,Semi-Urban,Placed
+STU_0817,Female,Tier 2,Semi-Urban,Placed
+STU_0409,Male,Tier 3,Urban,Not Placed
+STU_1354,Female,Tier 2,Urban,Placed
+STU_0071,Male,Tier 2,Rural,Not Placed
+STU_1267,Male,Tier 3,Semi-Urban,Not Placed
+STU_0651,Male,Tier 2,Urban,Placed
+STU_0601,Male,Tier 2,Urban,Placed
+STU_1320,Female,Tier 3,Urban,Not Placed
+STU_1175,Female,Tier 3,Semi-Urban,Placed
+STU_1061,Female,Tier 3,Semi-Urban,Placed
+STU_0197,Male,Tier 2,Urban,Placed
+STU_0591,Female,Tier 1,Urban,Placed
+STU_0522,Male,Tier 2,Urban,Not Placed
+STU_1041,Female,Tier 1,Urban,Placed
+STU_0976,Female,Tier 2,Urban,Not Placed
+STU_0632,Male,Tier 2,Rural,Placed
+STU_0066,Female,Tier 2,Semi-Urban,Placed
+STU_0565,Male,Tier 1,Semi-Urban,Placed
+STU_1248,Female,Tier 2,Urban,Placed
+STU_0923,Male,Tier 3,Semi-Urban,Not Placed
+STU_0701,Female,Tier 2,Semi-Urban,Placed
+STU_0397,Male,Tier 1,Rural,Placed
+STU_0572,Male,Tier 2,Semi-Urban,Placed
+STU_1436,Female,Tier 2,Urban,Not Placed
+STU_1268,Male,Tier 3,Urban,Placed
+STU_0201,Male,Tier 2,Semi-Urban,Placed
+STU_0727,Female,Tier 2,Rural,Not Placed
+STU_0965,Female,Tier 2,Semi-Urban,Not Placed
+STU_1246,Female,Tier 3,Urban,Placed
+STU_0467,Male,Tier 3,Rural,Not Placed
+STU_0696,Female,Tier 2,Urban,Placed
+STU_1440,Female,Tier 2,Semi-Urban,Placed
+STU_1203,Male,Tier 2,Semi-Urban,Not Placed
+STU_0663,Male,Tier 2,Urban,Placed
+STU_1206,Female,Tier 3,Urban,Placed
+STU_1098,Female,Tier 2,Semi-Urban,Placed
+STU_0845,Other,Tier 2,Urban,Not Placed
+STU_1442,Male,Tier 2,Urban,Placed
+STU_0655,Female,Tier 2,Urban,Placed
+STU_0385,Male,Tier 2,Semi-Urban,Placed
+STU_0180,Male,Tier 3,Semi-Urban,Not Placed
+STU_0881,Male,Tier 2,Rural,Placed
+STU_0292,Male,Tier 2,Semi-Urban,Placed
+STU_0495,Male,Tier 2,Semi-Urban,Placed
+STU_0551,Female,Tier 2,Urban,Placed
+STU_0154,Female,Tier 2,Rural,Placed
+STU_0555,Male,Tier 1,Rural,Placed
+STU_1283,Female,Tier 3,Rural,Not Placed
+STU_0597,Other,Tier 2,Urban,Placed
+STU_1088,Male,Tier 2,Urban,Not Placed
+STU_0543,Male,Tier 2,Semi-Urban,Placed
+STU_0520,Female,Tier 3,Urban,Not Placed
+STU_0569,Male,Tier 2,Semi-Urban,Not Placed
+STU_0095,Female,Tier 2,Urban,Placed
+STU_1022,Male,Tier 2,Urban,Not Placed
+STU_0892,Male,Tier 1,Semi-Urban,Not Placed
+STU_0373,Female,Tier 1,Semi-Urban,Placed
+STU_0844,Male,Tier 1,Semi-Urban,Placed
+STU_0741,Female,Tier 2,Semi-Urban,Placed
+STU_0502,Male,Tier 1,Semi-Urban,Placed
+STU_0086,Male,Tier 2,Semi-Urban,Not Placed
+STU_1342,Female,Tier 3,Urban,Placed
+STU_1465,Female,Tier 3,Urban,Placed
+STU_1418,Male,Tier 1,Semi-Urban,Placed
+STU_0983,Other,Tier 1,Semi-Urban,Placed
+STU_0211,Male,Tier 2,Rural,Placed
+STU_1146,Female,Tier 2,Urban,Placed
+STU_0542,Male,Tier 2,Urban,Placed
+STU_0398,Male,Tier 2,Rural,Not Placed
+STU_0794,Female,Tier 1,Semi-Urban,Placed
+STU_0406,Male,Tier 2,Semi-Urban,Placed
+STU_1100,Female,Tier 2,Urban,Not Placed
+STU_1033,Male,Tier 1,Urban,Placed
+STU_0865,Male,Tier 2,Urban,Not Placed
+STU_1317,Female,Tier 2,Rural,Placed
+STU_0631,Female,Tier 3,Rural,Not Placed
+STU_1319,Male,Tier 1,Rural,Not Placed
+STU_1437,Male,Tier 3,Semi-Urban,Not Placed
+STU_0979,Male,Tier 2,Rural,Not Placed
+STU_0730,Male,Tier 1,Urban,Not Placed
+STU_0377,Female,Tier 2,Semi-Urban,Placed
+STU_0871,Other,Tier 3,Semi-Urban,Not Placed
+STU_1308,Female,Tier 2,Urban,Placed
+STU_0507,Male,Tier 1,Urban,Placed
+STU_1282,Male,Tier 2,Urban,Placed
+STU_1475,Female,Tier 2,Urban,Placed
+STU_0388,Male,Tier 1,Urban,Placed
+STU_0225,Male,Tier 3,Semi-Urban,Not Placed
+STU_0390,Male,Tier 2,Semi-Urban,Placed
+STU_0546,Male,Tier 3,Semi-Urban,Not Placed
+STU_0934,Male,Tier 1,Urban,Placed
+STU_0945,Female,Tier 2,Rural,Not Placed
+STU_1034,Male,Tier 2,Urban,Not Placed
+STU_0275,Male,Tier 3,Rural,Not Placed
+STU_0638,Male,Tier 1,Urban,Placed
+STU_1148,Male,Tier 1,Semi-Urban,Placed
+STU_1316,Female,Tier 2,Urban,Placed
+STU_0065,Female,Tier 3,Urban,Not Placed
+STU_0625,Female,Tier 1,Urban,Placed
+STU_1230,Female,Tier 1,Semi-Urban,Placed
+STU_0525,Male,Tier 3,Urban,Not Placed
+STU_1357,Male,Tier 3,Semi-Urban,Not Placed
+STU_0305,Female,Tier 2,Rural,Not Placed
+STU_1286,Male,Tier 1,Urban,Placed
+STU_0692,Male,Tier 3,Rural,Placed
+STU_1075,Male,Tier 1,Rural,Not Placed
+STU_0153,Male,Tier 2,Urban,Placed
+STU_0304,Male,Tier 2,Semi-Urban,Not Placed
+STU_1454,Male,Tier 1,Semi-Urban,Placed
+STU_1476,Female,Tier 2,Urban,Placed
+STU_0074,Male,Tier 1,Urban,Placed
+STU_0583,Female,Tier 2,Urban,Placed
+STU_1001,Female,Tier 2,Urban,Not Placed
+STU_0784,Male,Tier 2,Urban,Not Placed
+STU_0316,Male,Tier 1,Rural,Placed
+STU_0451,Male,Tier 2,Rural,Placed
+STU_0265,Male,Tier 3,Urban,Not Placed
+STU_1386,Male,Tier 1,Urban,Placed
+STU_0717,Female,Tier 2,Urban,Placed
+STU_1419,Male,Tier 2,Semi-Urban,Placed
+STU_0129,Female,Tier 2,Semi-Urban,Placed
+STU_0813,Male,Tier 1,Urban,Placed
+STU_0465,Female,Tier 2,Urban,Placed
+STU_0120,Male,Tier 2,Semi-Urban,Placed
+STU_1403,Male,Tier 1,Urban,Not Placed
+STU_0576,Female,Tier 3,Urban,Not Placed
+STU_0966,Female,Tier 1,Rural,Placed
+STU_0708,Male,Tier 2,Semi-Urban,Placed
+STU_0124,Male,Tier 3,Urban,Placed
+STU_1185,Female,Tier 2,Semi-Urban,Not Placed
+STU_0459,Male,Tier 2,Urban,Not Placed
+STU_0126,Male,Tier 2,Urban,Not Placed
+STU_1008,Male,Tier 1,Urban,Not Placed
+STU_0956,Female,Tier 1,Urban,Placed
+STU_0439,Male,Tier 1,Rural,Placed
+STU_0231,Female,Tier 2,Urban,Placed
+STU_1147,Male,Tier 1,Urban,Placed
+STU_0527,Female,Tier 2,Urban,Not Placed
+STU_1213,Other,Tier 2,Urban,Placed
+STU_1047,Male,Tier 3,Urban,Placed
+STU_1136,Female,Tier 1,Urban,Placed
+STU_0800,Male,Tier 2,Urban,Not Placed
+STU_0244,Male,Tier 2,Rural,Not Placed
+STU_0960,Female,Tier 1,Rural,Placed
+STU_0001,Female,Tier 3,Urban,Not Placed
+STU_0594,Female,Tier 3,Semi-Urban,Not Placed
+STU_0202,Female,Tier 3,Semi-Urban,Not Placed
+STU_0010,Female,Tier 2,Semi-Urban,Placed
+STU_0103,Other,Tier 2,Urban,Placed
+STU_0255,Female,Tier 2,Semi-Urban,Not Placed
+STU_1221,Male,Tier 2,Rural,Not Placed
+STU_1408,Male,Tier 3,Urban,Placed
+STU_0256,Other,Tier 1,Semi-Urban,Placed
+STU_0556,Male,Tier 2,Urban,Not Placed
+STU_1155,Female,Tier 2,Urban,Placed
+STU_0830,Male,Tier 1,Urban,Placed
+STU_0368,Male,Tier 3,Urban,Placed
+STU_0208,Male,Tier 2,Semi-Urban,Not Placed
+STU_0431,Female,Tier 1,Semi-Urban,Not Placed
+STU_0354,Male,Tier 1,Semi-Urban,Not Placed
+STU_0283,Male,Tier 3,Urban,Not Placed
+STU_1011,Male,Tier 3,Semi-Urban,Placed
+STU_0438,Female,Tier 3,Urban,Placed
+STU_1477,Other,Tier 2,Urban,Not Placed
+STU_0949,Male,Tier 3,Rural,Not Placed
+STU_0768,Male,Tier 2,Urban,Not Placed
+STU_0089,Female,Tier 2,Semi-Urban,Placed
+STU_1051,Female,Tier 2,Urban,Not Placed
+STU_1313,Female,Tier 3,Rural,Not Placed
+STU_1225,Male,Tier 2,Semi-Urban,Not Placed
+STU_1392,Male,Tier 3,Rural,Not Placed
+STU_1036,Male,Tier 2,Urban,Placed
+STU_0005,Male,Tier 2,Urban,Placed
+STU_0356,Male,Tier 3,Semi-Urban,Not Placed
+STU_0731,Female,Tier 2,Urban,Not Placed
+STU_0097,Male,Tier 2,Urban,Placed
+STU_0344,Female,Tier 2,Semi-Urban,Placed
+STU_0820,Female,Tier 1,Rural,Placed
+STU_0567,Female,Tier 3,Rural,Not Placed
+STU_1264,Female,Tier 2,Urban,Placed
+STU_0639,Female,Tier 3,Semi-Urban,Not Placed
+STU_1160,Female,Tier 1,Urban,Placed
+STU_1474,Male,Tier 3,Rural,Not Placed
+STU_0069,Male,Tier 3,Semi-Urban,Not Placed
+STU_0683,Female,Tier 1,Semi-Urban,Not Placed
+STU_0151,Male,Tier 1,Semi-Urban,Placed
+STU_1054,Female,Tier 2,Urban,Not Placed
+STU_1021,Male,Tier 2,Urban,Not Placed
+STU_0948,Female,Tier 1,Semi-Urban,Placed
+STU_0070,Female,Tier 1,Urban,Placed
+STU_1294,Female,Tier 1,Urban,Placed
+STU_0372,Male,Tier 2,Semi-Urban,Not Placed
+STU_0078,Female,Tier 3,Urban,Placed
+STU_1170,Female,Tier 2,Semi-Urban,Placed
+STU_0303,Male,Tier 1,Urban,Placed
+STU_0729,Male,Tier 2,Urban,Not Placed
+STU_1017,Male,Tier 2,Urban,Not Placed
+STU_1040,Male,Tier 1,Urban,Placed
+STU_0251,Female,Tier 2,Urban,Placed
+STU_1095,Female,Tier 3,Urban,Not Placed
+STU_1483,Female,Tier 1,Urban,Placed
+STU_0895,Female,Tier 2,Semi-Urban,Not Placed
+STU_0637,Female,Tier 2,Urban,Placed
+STU_1117,Female,Tier 2,Rural,Placed
+STU_1496,Male,Tier 1,Rural,Placed
+STU_1120,Female,Tier 3,Urban,Placed
+STU_0296,Female,Tier 3,Semi-Urban,Not Placed
+STU_0118,Female,Tier 2,Urban,Placed
+STU_0624,Female,Tier 2,Urban,Placed
+STU_1064,Female,Tier 3,Urban,Placed
+STU_0665,Other,Tier 2,Urban,Not Placed
+STU_0669,Female,Tier 1,Urban,Placed
+STU_0699,Male,Tier 3,Semi-Urban,Not Placed
+STU_1434,Female,Tier 1,Semi-Urban,Placed
+STU_1258,Female,Tier 2,Rural,Placed
+STU_0575,Other,Tier 3,Urban,Placed
+STU_0755,Male,Tier 2,Urban,Not Placed
+STU_0045,Male,Tier 2,Urban,Not Placed
+STU_0831,Female,Tier 3,Urban,Placed
+STU_0012,Female,Tier 3,Rural,Not Placed
+STU_0433,Male,Tier 3,Urban,Not Placed
+STU_0479,Female,Tier 2,Urban,Placed
+STU_0107,Male,Tier 2,Semi-Urban,Not Placed
+STU_0796,Male,Tier 2,Semi-Urban,Placed
+STU_1373,Male,Tier 2,Semi-Urban,Not Placed
+STU_0826,Female,Tier 2,Rural,Not Placed
+STU_0781,Male,Tier 2,Urban,Not Placed
+STU_0643,Male,Tier 2,Semi-Urban,Not Placed
+STU_0545,Male,Tier 1,Urban,Placed
+STU_1130,Male,Tier 2,Urban,Placed
+STU_0689,Female,Tier 2,Semi-Urban,Placed
+STU_0590,Female,Tier 1,Semi-Urban,Placed
+STU_0767,Male,Tier 2,Semi-Urban,Not Placed
+STU_1224,Female,Tier 2,Urban,Not Placed
+STU_1115,Female,Tier 1,Urban,Placed
+STU_0461,Female,Tier 1,Urban,Placed
+STU_0504,Female,Tier 2,Semi-Urban,Not Placed
+STU_1347,Male,Tier 3,Rural,Placed
+STU_0469,Male,Tier 2,Urban,Not Placed
+STU_1073,Female,Tier 2,Semi-Urban,Not Placed
+STU_0015,Male,Tier 1,Semi-Urban,Not Placed
+STU_0509,Female,Tier 2,Semi-Urban,Placed
+STU_0621,Female,Tier 3,Semi-Urban,Not Placed
+STU_1449,Male,Tier 2,Urban,Placed
+STU_0308,Male,Tier 2,Rural,Not Placed
+STU_0661,Female,Tier 3,Rural,Not Placed
+STU_0672,Male,Tier 3,Rural,Placed
+STU_0449,Female,Tier 3,Urban,Not Placed
+STU_0959,Male,Tier 2,Semi-Urban,Not Placed
+STU_0582,Male,Tier 2,Urban,Placed
+STU_1122,Female,Tier 2,Rural,Placed
+STU_0138,Male,Tier 2,Semi-Urban,Placed
+STU_0105,Male,Tier 1,Urban,Not Placed
+STU_0133,Male,Tier 1,Urban,Placed
+STU_1028,Male,Tier 3,Urban,Not Placed
+STU_1495,Female,Tier 3,Semi-Urban,Placed
+STU_0754,Female,Tier 3,Urban,Placed
+STU_1010,Male,Tier 2,Urban,Placed
+STU_0357,Male,Tier 3,Semi-Urban,Placed
+STU_1271,Female,Tier 2,Semi-Urban,Placed
+STU_0924,Female,Tier 2,Semi-Urban,Not Placed
+STU_1343,Other,Tier 1,Urban,Placed
+STU_0982,Male,Tier 2,Urban,Not Placed
+STU_0970,Male,Tier 3,Urban,Placed
+STU_1344,Male,Tier 2,Semi-Urban,Not Placed
+STU_0325,Male,Tier 2,Rural,Not Placed
+STU_1177,Female,Tier 2,Urban,Placed
+STU_0011,Male,Tier 2,Semi-Urban,Not Placed
+STU_0824,Male,Tier 1,Semi-Urban,Placed
+STU_1399,Male,Tier 2,Semi-Urban,Placed
+STU_0298,Female,Tier 3,Urban,Not Placed
+STU_1009,Female,Tier 3,Urban,Not Placed
+STU_1171,Female,Tier 1,Semi-Urban,Placed
+STU_0977,Male,Tier 3,Semi-Urban,Placed
+STU_1218,Female,Tier 3,Semi-Urban,Not Placed
+STU_0484,Male,Tier 3,Urban,Placed
+STU_0880,Male,Tier 2,Semi-Urban,Not Placed
+STU_0538,Female,Tier 3,Semi-Urban,Not Placed
+STU_0052,Female,Tier 3,Rural,Not Placed
+STU_0290,Male,Tier 1,Semi-Urban,Placed
+STU_0877,Female,Tier 3,Semi-Urban,Placed
+STU_0322,Female,Tier 1,Urban,Placed
+STU_0816,Male,Tier 2,Semi-Urban,Not Placed
+STU_1153,Male,Tier 3,Urban,Placed
+STU_0940,Male,Tier 2,Urban,Placed
+STU_0602,Female,Tier 2,Rural,Placed
+STU_0659,Female,Tier 1,Semi-Urban,Placed
+STU_1277,Female,Tier 2,Urban,Not Placed
+STU_0916,Male,Tier 2,Urban,Placed
+STU_0393,Male,Tier 2,Urban,Placed
+STU_0912,Female,Tier 2,Urban,Not Placed
+STU_1216,Male,Tier 2,Urban,Placed
+STU_0869,Female,Tier 1,Semi-Urban,Placed
+STU_0489,Male,Tier 2,Urban,Placed
+STU_0077,Female,Tier 3,Semi-Urban,Placed
+STU_1140,Female,Tier 3,Semi-Urban,Not Placed
+STU_0967,Female,Tier 2,Urban,Not Placed
+STU_0252,Male,Tier 2,Rural,Placed
+STU_0809,Male,Tier 2,Semi-Urban,Placed
+STU_0823,Male,Tier 1,Urban,Not Placed
+STU_0926,Male,Tier 1,Rural,Not Placed
+STU_1307,Male,Tier 3,Semi-Urban,Not Placed
+STU_0068,Male,Tier 1,Rural,Placed
+STU_1108,Male,Tier 2,Rural,Placed
+STU_1251,Female,Tier 3,Urban,Not Placed
+STU_1212,Male,Tier 1,Semi-Urban,Placed
+STU_0384,Male,Tier 2,Semi-Urban,Not Placed
+STU_0969,Female,Tier 1,Urban,Placed
+STU_0753,Male,Tier 2,Urban,Placed
+STU_0017,Female,Tier 3,Urban,Not Placed
+STU_0093,Male,Tier 1,Semi-Urban,Not Placed
+STU_0511,Male,Tier 3,Urban,Not Placed
+STU_0791,Female,Tier 2,Urban,Not Placed
+STU_1396,Male,Tier 1,Urban,Not Placed
+STU_0482,Male,Tier 2,Urban,Placed
+STU_0534,Male,Tier 3,Semi-Urban,Not Placed
+STU_0497,Other,Tier 3,Semi-Urban,Placed
+STU_1239,Female,Tier 2,Urban,Not Placed
+STU_1018,Female,Tier 1,Urban,Placed
+STU_0060,Male,Tier 1,Semi-Urban,Placed
+STU_1242,Male,Tier 2,Urban,Placed
+STU_0744,Female,Tier 3,Urban,Placed
+STU_0395,Female,Tier 2,Urban,Not Placed
+STU_0687,Male,Tier 2,Semi-Urban,Placed
+STU_0307,Female,Tier 1,Urban,Placed
+STU_0513,Male,Tier 1,Rural,Placed
+STU_1031,Female,Tier 2,Semi-Urban,Not Placed
+STU_0722,Female,Tier 2,Urban,Placed
+STU_0383,Female,Tier 1,Urban,Placed
+STU_1272,Male,Tier 2,Semi-Urban,Not Placed
+STU_1056,Male,Tier 2,Urban,Placed
+STU_1298,Female,Tier 3,Urban,Placed
+STU_0900,Female,Tier 2,Rural,Placed
+STU_0973,Male,Tier 3,Semi-Urban,Not Placed
+STU_0518,Male,Tier 3,Urban,Placed
+STU_0832,Female,Tier 2,Urban,Placed
+STU_0007,Female,Tier 3,Urban,Placed
+STU_1004,Female,Tier 2,Urban,Placed
+STU_0033,Other,Tier 2,Urban,Placed
+STU_0026,Female,Tier 1,Semi-Urban,Placed
+STU_0243,Other,Tier 2,Urban,Placed
+STU_1220,Male,Tier 2,Urban,Not Placed
+STU_1302,Female,Tier 3,Urban,Placed
+STU_1421,Female,Tier 2,Semi-Urban,Not Placed
+STU_1169,Male,Tier 3,Urban,Placed
+STU_0272,Female,Tier 3,Urban,Not Placed
+STU_1053,Female,Tier 1,Urban,Placed
+STU_0679,Female,Tier 3,Urban,Not Placed
+STU_0838,Female,Tier 3,Urban,Not Placed
+STU_0088,Male,Tier 1,Urban,Not Placed
+STU_1287,Male,Tier 1,Urban,Placed
+STU_0121,Male,Tier 3,Semi-Urban,Not Placed
+STU_1482,Female,Tier 3,Rural,Not Placed
+STU_0884,Male,Tier 3,Semi-Urban,Not Placed
+STU_0217,Female,Tier 3,Semi-Urban,Not Placed
+STU_0580,Male,Tier 1,Semi-Urban,Placed
+STU_0064,Female,Tier 2,Semi-Urban,Not Placed
+STU_0226,Male,Tier 3,Semi-Urban,Placed
+STU_0474,Female,Tier 2,Semi-Urban,Placed
+STU_0337,Male,Tier 2,Urban,Placed
+STU_1229,Female,Tier 1,Urban,Placed
+STU_0241,Male,Tier 3,Semi-Urban,Not Placed
+STU_0991,Male,Tier 2,Rural,Not Placed
+STU_1107,Male,Tier 2,Semi-Urban,Not Placed
+STU_0057,Other,Tier 1,Semi-Urban,Not Placed
+STU_0125,Male,Tier 3,Urban,Not Placed
+STU_0161,Male,Tier 2,Urban,Not Placed
+STU_0861,Female,Tier 3,Urban,Not Placed
+STU_1417,Male,Tier 1,Rural,Not Placed
+STU_0500,Other,Tier 3,Urban,Placed
+STU_0288,Male,Tier 2,Semi-Urban,Not Placed
+STU_1086,Male,Tier 2,Semi-Urban,Placed
+STU_0341,Female,Tier 2,Urban,Not Placed
+STU_1062,Female,Tier 3,Semi-Urban,Not Placed
+STU_1183,Male,Tier 1,Urban,Placed
+STU_0716,Male,Tier 3,Urban,Placed
+STU_0850,Male,Tier 1,Urban,Placed
+STU_1058,Female,Tier 2,Semi-Urban,Not Placed
+STU_0606,Male,Tier 2,Rural,Placed
+STU_0083,Male,Tier 2,Urban,Not Placed
+STU_0112,Male,Tier 2,Urban,Placed
+STU_0678,Female,Tier 2,Urban,Placed
+STU_0685,Male,Tier 3,Rural,Not Placed
+STU_0273,Female,Tier 3,Urban,Not Placed
+STU_1401,Female,Tier 3,Urban,Not Placed
+STU_1110,Male,Tier 3,Urban,Not Placed
+STU_1300,Male,Tier 1,Urban,Placed
+STU_0579,Female,Tier 2,Urban,Placed
+STU_0139,Male,Tier 1,Semi-Urban,Placed
+STU_0571,Male,Tier 1,Urban,Placed
+STU_1289,Female,Tier 3,Semi-Urban,Placed
+STU_0476,Male,Tier 3,Semi-Urban,Placed
+STU_0327,Female,Tier 3,Rural,Not Placed
+STU_0698,Female,Tier 3,Rural,Placed
+STU_1458,Male,Tier 1,Rural,Placed
+STU_0762,Male,Tier 2,Semi-Urban,Not Placed
+STU_0329,Male,Tier 1,Semi-Urban,Not Placed
+STU_0164,Female,Tier 3,Rural,Placed
+STU_0032,Male,Tier 1,Urban,Not Placed
+STU_1249,Male,Tier 2,Rural,Placed
+STU_0218,Male,Tier 2,Semi-Urban,Placed
+STU_1484,Male,Tier 2,Semi-Urban,Not Placed
+STU_0334,Female,Tier 3,Semi-Urban,Placed
+STU_0748,Female,Tier 1,Rural,Placed
+STU_0176,Male,Tier 3,Rural,Not Placed
+STU_1326,Male,Tier 3,Rural,Placed
+STU_1463,Female,Tier 3,Urban,Not Placed
+STU_0035,Male,Tier 2,Semi-Urban,Not Placed
+STU_0854,Male,Tier 1,Urban,Placed
+STU_0452,Female,Tier 2,Urban,Not Placed
+STU_1211,Female,Tier 1,Urban,Placed
+STU_0419,Female,Tier 3,Semi-Urban,Placed
+STU_0220,Female,Tier 1,Semi-Urban,Placed
+STU_0358,Female,Tier 2,Rural,Placed
+STU_0289,Female,Tier 3,Rural,Placed
+STU_0550,Female,Tier 1,Urban,Not Placed
+STU_0374,Male,Tier 2,Urban,Placed
+STU_1456,Female,Tier 1,Urban,Placed
+STU_1432,Male,Tier 2,Urban,Not Placed
+STU_0863,Female,Tier 1,Rural,Placed
+STU_0491,Male,Tier 2,Urban,Placed
+STU_0619,Female,Tier 2,Urban,Not Placed
+STU_0183,Female,Tier 3,Urban,Not Placed
+STU_0609,Female,Tier 3,Semi-Urban,Placed
+STU_0615,Male,Tier 2,Urban,Not Placed
+STU_0703,Female,Tier 3,Rural,Not Placed
+STU_0343,Other,Tier 3,Urban,Not Placed
+STU_1367,Male,Tier 2,Urban,Placed
+STU_1068,Male,Tier 3,Rural,Not Placed
+STU_1388,Male,Tier 1,Semi-Urban,Not Placed
+STU_0652,Other,Tier 2,Semi-Urban,Placed
+STU_0552,Male,Tier 2,Urban,Not Placed
+STU_1422,Male,Tier 3,Urban,Placed
+STU_0613,Male,Tier 3,Urban,Not Placed
+STU_0686,Female,Tier 2,Urban,Not Placed
+STU_0117,Male,Tier 1,Semi-Urban,Placed
+STU_0239,Male,Tier 3,Semi-Urban,Placed
+STU_0006,Male,Tier 1,Rural,Placed
+STU_0132,Female,Tier 2,Urban,Placed
+STU_0360,Female,Tier 1,Urban,Placed
+STU_0933,Male,Tier 2,Rural,Placed
+STU_0811,Female,Tier 1,Urban,Not Placed
+STU_0023,Female,Tier 2,Semi-Urban,Placed
+STU_1334,Female,Tier 1,Urban,Placed
+STU_0454,Female,Tier 1,Semi-Urban,Placed
+STU_1128,Female,Tier 2,Rural,Not Placed
+STU_0828,Female,Tier 1,Rural,Placed
+STU_0312,Male,Tier 3,Urban,Not Placed
+STU_0420,Female,Tier 2,Urban,Not Placed
+STU_1197,Male,Tier 3,Rural,Not Placed
+STU_1304,Female,Tier 3,Urban,Not Placed
+STU_1174,Female,Tier 2,Urban,Placed
+STU_0633,Male,Tier 2,Urban,Placed
+STU_1096,Female,Tier 1,Urban,Placed
+STU_0003,Female,Tier 2,Urban,Not Placed
+STU_1067,Female,Tier 2,Urban,Placed
+STU_1158,Female,Tier 3,Rural,Not Placed
+STU_1234,Female,Tier 3,Rural,Not Placed
+STU_0839,Female,Tier 2,Semi-Urban,Placed
+STU_0214,Female,Tier 2,Urban,Not Placed
+STU_0792,Male,Tier 2,Semi-Urban,Placed
+STU_0757,Female,Tier 3,Semi-Urban,Not Placed
+STU_1370,Female,Tier 1,Urban,Placed
+STU_0440,Male,Tier 1,Rural,Placed
+STU_1390,Female,Tier 2,Urban,Placed
+STU_0038,Female,Tier 3,Urban,Not Placed
+STU_1261,Female,Tier 2,Semi-Urban,Not Placed
+STU_1195,Male,Tier 2,Urban,Placed
+STU_0858,Female,Tier 3,Rural,Not Placed
+STU_0335,Other,Tier 2,Rural,Placed
+STU_0085,Male,Tier 3,Urban,Not Placed
+STU_0980,Male,Tier 1,Semi-Urban,Not Placed
+STU_1381,Female,Tier 2,Semi-Urban,Not Placed
+STU_1338,Female,Tier 2,Urban,Not Placed
+STU_0634,Female,Tier 1,Urban,Placed
+STU_0024,Male,Tier 3,Urban,Not Placed
+STU_1196,Male,Tier 2,Rural,Not Placed
+STU_1400,Female,Tier 1,Urban,Placed
+STU_0846,Male,Tier 3,Semi-Urban,Not Placed
+STU_0833,Male,Tier 1,Semi-Urban,Placed
+STU_1006,Male,Tier 3,Semi-Urban,Not Placed
+STU_0559,Male,Tier 3,Urban,Placed
+STU_0684,Female,Tier 1,Urban,Placed
+STU_0022,Male,Tier 1,Rural,Placed
+STU_0473,Male,Tier 3,Semi-Urban,Not Placed
+STU_0425,Male,Tier 3,Semi-Urban,Placed
+STU_1250,Male,Tier 3,Urban,Not Placed
+STU_1080,Male,Tier 1,Semi-Urban,Placed
+STU_1444,Male,Tier 2,Rural,Not Placed
+STU_0163,Female,Tier 3,Semi-Urban,Placed
+STU_0187,Male,Tier 3,Urban,Not Placed
+STU_0379,Male,Tier 2,Urban,Not Placed
+STU_1104,Female,Tier 2,Urban,Not Placed
+STU_0460,Male,Tier 2,Semi-Urban,Placed
+STU_0622,Female,Tier 1,Urban,Placed
+STU_0123,Female,Tier 2,Semi-Urban,Not Placed
+STU_0529,Male,Tier 1,Urban,Placed
+STU_1037,Male,Tier 2,Urban,Not Placed
+STU_0215,Female,Tier 1,Semi-Urban,Placed
+STU_1312,Female,Tier 3,Urban,Placed
+STU_0169,Female,Tier 3,Semi-Urban,Not Placed
+STU_0874,Female,Tier 2,Semi-Urban,Placed
+STU_0821,Female,Tier 2,Urban,Not Placed
+STU_0411,Female,Tier 2,Semi-Urban,Placed
+STU_0806,Male,Tier 3,Rural,Placed
+STU_0221,Male,Tier 3,Semi-Urban,Not Placed
+STU_1457,Other,Tier 2,Urban,Placed
+STU_0204,Male,Tier 2,Urban,Not Placed
+STU_0919,Female,Tier 3,Semi-Urban,Not Placed
+STU_1296,Other,Tier 3,Urban,Placed
+STU_1077,Male,Tier 3,Semi-Urban,Not Placed
+STU_0818,Female,Tier 3,Semi-Urban,Placed
+STU_0009,Female,Tier 2,Urban,Placed
+STU_1020,Male,Tier 2,Urban,Placed
+STU_1046,Female,Tier 2,Urban,Placed
+STU_0179,Male,Tier 1,Semi-Urban,Placed
+STU_0004,Female,Tier 3,Semi-Urban,Not Placed
+STU_1295,Female,Tier 2,Urban,Not Placed
+STU_0671,Female,Tier 2,Semi-Urban,Placed
+STU_0549,Male,Tier 2,Urban,Placed
+STU_0670,Male,Tier 2,Urban,Placed
+STU_0726,Female,Tier 3,Urban,Not Placed
+STU_1352,Female,Tier 3,Rural,Placed
+STU_0647,Other,Tier 1,Semi-Urban,Placed
+STU_0478,Female,Tier 1,Rural,Placed
+STU_1161,Female,Tier 2,Urban,Placed
+STU_0348,Male,Tier 1,Semi-Urban,Not Placed
+STU_0376,Female,Tier 3,Urban,Not Placed
+STU_1349,Female,Tier 2,Semi-Urban,Not Placed
+STU_0928,Female,Tier 2,Semi-Urban,Placed
+STU_0712,Female,Tier 2,Semi-Urban,Placed
+STU_0577,Male,Tier 1,Urban,Not Placed
+STU_0566,Female,Tier 2,Semi-Urban,Placed
+STU_1165,Male,Tier 1,Urban,Not Placed
+STU_0872,Male,Tier 2,Rural,Not Placed
+STU_0560,Male,Tier 2,Urban,Placed
+STU_0025,Female,Tier 2,Urban,Not Placed
+STU_0279,Male,Tier 3,Urban,Not Placed
+STU_0242,Male,Tier 2,Urban,Placed
+STU_0681,Male,Tier 3,Urban,Not Placed
+STU_0620,Female,Tier 3,Rural,Not Placed
+STU_0675,Female,Tier 2,Rural,Not Placed
+STU_0421,Male,Tier 2,Semi-Urban,Not Placed
+STU_1126,Male,Tier 3,Semi-Urban,Placed
+STU_0428,Female,Tier 3,Semi-Urban,Not Placed
+STU_0410,Male,Tier 1,Urban,Placed
+STU_0710,Female,Tier 3,Semi-Urban,Not Placed
+STU_0561,Female,Tier 3,Urban,Placed
+STU_1055,Male,Tier 2,Semi-Urban,Not Placed
+STU_0519,Female,Tier 3,Semi-Urban,Not Placed
+STU_1125,Male,Tier 3,Rural,Placed
+STU_0253,Female,Tier 2,Semi-Urban,Not Placed
+STU_1291,Male,Tier 1,Urban,Not Placed
+STU_0423,Male,Tier 2,Semi-Urban,Not Placed
+STU_1172,Male,Tier 2,Urban,Placed
+STU_1377,Female,Tier 1,Semi-Urban,Placed
+STU_0330,Male,Tier 2,Rural,Placed
+STU_1406,Male,Tier 2,Semi-Urban,Placed
+STU_1015,Female,Tier 3,Urban,Placed
+STU_0501,Female,Tier 2,Urban,Placed
+STU_0414,Male,Tier 2,Semi-Urban,Not Placed
+STU_0706,Female,Tier 3,Semi-Urban,Not Placed
+STU_0506,Male,Tier 2,Semi-Urban,Not Placed
+STU_1443,Female,Tier 2,Semi-Urban,Not Placed
+STU_0418,Other,Tier 1,Rural,Placed
+STU_0951,Male,Tier 2,Semi-Urban,Placed
+STU_1049,Female,Tier 1,Rural,Placed
+STU_0051,Male,Tier 2,Urban,Not Placed
+STU_0662,Female,Tier 2,Semi-Urban,Placed
+STU_0453,Male,Tier 1,Semi-Urban,Placed
+STU_1111,Male,Tier 2,Urban,Not Placed
+STU_0777,Female,Tier 3,Urban,Not Placed
+STU_0462,Female,Tier 3,Semi-Urban,Not Placed
+STU_1138,Male,Tier 1,Rural,Placed
+STU_1368,Female,Tier 2,Urban,Placed
+STU_0664,Female,Tier 3,Semi-Urban,Not Placed
+STU_1188,Male,Tier 3,Urban,Not Placed

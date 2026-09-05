@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "PY_01",
+    "skill": "Python",
+    "question": "What is the time complexity of looking up a key in a standard Python dictionary on average?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "correct_answer": "A",
+    "explanation": "Python dictionaries use hash tables, giving average-case O(1) lookup time."
+  },
+  {
+    "id": "PY_02",
+    "skill": "Python",
+    "question": "Which of the following data structures in Python is immutable?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "correct_answer": "B",
+    "explanation": "Tuples are immutable; once created, their elements cannot be changed or reassigned."
+  },
+  {
+    "id": "PY_03",
+    "skill": "Python",
+    "question": "What keyword is used in Python to create a generator function?",
+    "options": [
+      "return",
+      "yield",
+      "generate",
+      "pass"
+    ],
+    "correct_answer": "B",
+    "explanation": "The 'yield' statement suspends function execution and yields a value back to the caller."
+  },
+  {
+    "id": "PY_04",
+    "skill": "Python",
+    "question": "What will `bool([])` evaluate to in Python?",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "TypeError"
+    ],
+    "correct_answer": "B",
+    "explanation": "Empty collections such as lists, tuples, and sets evaluate to False in boolean context."
+  },
+  {
+    "id": "PY_05",
+    "skill": "Python",
+    "question": "Which module in Python standard library provides deep and shallow copy operations?",
+    "options": [
+      "os",
+      "sys",
+      "copy",
+      "clone"
+    ],
+    "correct_answer": "C",
+    "explanation": "The 'copy' module contains copy.copy() for shallow copy and copy.deepcopy() for deep copy."
+  },
+  {
+    "id": "PY_06",
+    "skill": "Python",
+    "question": "What does the `*args` syntax in a function definition indicate?",
+    "options": [
+      "Keyword arguments as dictionary",
+      "Variable positional arguments as tuple",
+      "Pointer dereference",
+      "Mandatory arguments"
+    ],
+    "correct_answer": "B",
+    "explanation": "*args captures any number of non-keyword positional arguments as a tuple."
+  },
+  {
+    "id": "PY_07",
+    "skill": "Python",
+    "question": "How do you handle exceptions gracefully in Python?",
+    "options": [
+      "try-catch block",
+      "try-except-finally block",
+      "do-while block",
+      "throw-catch block"
+    ],
+    "correct_answer": "B",
+    "explanation": "Python uses 'try' and 'except' blocks for catching and handling exceptions."
+  },
+  {
+    "id": "PY_08",
+    "skill": "Python",
+    "question": "What is the output of `type(lambda x: x)`?",
+    "options": [
+      "<class 'function'>",
+      "<class 'lambda'>",
+      "<class 'method'>",
+      "<class 'object'>"
+    ],
+    "correct_answer": "A",
+    "explanation": "Lambda functions in Python are instances of the standard function type."
+  },
+  {
+    "id": "PY_09",
+    "skill": "Python",
+    "question": "Which built-in function returns both the index and value during loop iteration?",
+    "options": [
+      "range()",
+      "zip()",
+      "enumerate()",
+      "sorted()"
+    ],
+    "correct_answer": "C",
+    "explanation": "enumerate() yields pairs of (index, item) during iteration."
+  },
+  {
+    "id": "PY_10",
+    "skill": "Python",
+    "question": "What does `[x**2 for x in range(5) if x % 2 == 0]` produce?",
+    "options": [
+      "[0, 4, 16]",
+      "[1, 9]",
+      "[0, 1, 4, 9, 16]",
+      "[4, 16]"
+    ],
+    "correct_answer": "A",
+    "explanation": "Evaluates squares of even numbers in range(5): 0^2=0, 2^2=4, 4^2=16."
+  },
+  {
+    "id": "PY_11",
+    "skill": "Python",
+    "question": "What is the difference between `==` and `is` in Python?",
+    "options": [
+      "'==' checks value equality, 'is' checks object identity in memory",
+      "'==' checks identity, 'is' checks value",
+      "They are completely identical",
+      "'is' is only for numbers"
+    ],
+    "correct_answer": "A",
+    "explanation": "'==' checks if values are equal, whereas 'is' checks if two variables point to the identical memory address."
+  },
+  {
+    "id": "PY_12",
+    "skill": "Python",
+    "question": "Which Pandas method is used to inspect summary statistics of numerical columns?",
+    "options": [
+      "df.info()",
+      "df.describe()",
+      "df.summary()",
+      "df.stats()"
+    ],
+    "correct_answer": "B",
+    "explanation": "df.describe() computes count, mean, std, min, quartiles, and max."
+  },
+  {
+    "id": "PY_13",
+    "skill": "Python",
+    "question": "What is a decorator in Python?",
+    "options": [
+      "A CSS styling class",
+      "A function that modifies the behavior of another function without modifying its source",
+      "A design pattern for database transactions",
+      "A syntax error"
+    ],
+    "correct_answer": "B",
+    "explanation": "Decorators wrap a function to extend its behavior dynamically."
+  },
+  {
+    "id": "PY_14",
+    "skill": "Python",
+    "question": "How does Python manage memory allocation and deallocation automatically?",
+    "options": [
+      "Manual pointers",
+      "Reference counting and cyclical Garbage Collector",
+      "JVM memory pool",
+      "RAII only"
+    ],
+    "correct_answer": "B",
+    "explanation": "CPython utilizes reference counting complemented by a cyclical garbage collector."
+  },
+  {
+    "id": "PY_15",
+    "skill": "Python",
+    "question": "What does `__init__` represent in a Python class?",
+    "options": [
+      "Class destructor",
+      "Instance initializer (constructor)",
+      "Static method declaration",
+      "Inheritance operator"
+    ],
+    "correct_answer": "B",
+    "explanation": "__init__ is called when a new object instance is instantiated to initialize attributes."
+  },
+  {
+    "id": "PY_16",
+    "skill": "Python",
+    "question": "What is the output of `\"Python\"[::-1]`?",
+    "options": [
+      "\"nohtyP\"",
+      "\"Python\"",
+      "\"P\"",
+      "IndexError"
+    ],
+    "correct_answer": "A",
+    "explanation": "Slice syntax [::-1] reverses the string sequence."
+  },
+  {
+    "id": "PY_17",
+    "skill": "Python",
+    "question": "Which NumPy function is used to create an array with 10 evenly spaced numbers between 0 and 1?",
+    "options": [
+      "np.range(0, 1, 10)",
+      "np.linspace(0, 1, 10)",
+      "np.arange(0, 1, 10)",
+      "np.spacing(0, 1, 10)"
+    ],
+    "correct_answer": "B",
+    "explanation": "np.linspace(start, stop, num) generates evenly spaced numbers over a specified interval."
+  },
+  {
+    "id": "PY_18",
+    "skill": "Python",
+    "question": "What is a virtual environment used for in Python?",
+    "options": [
+      "Running Docker containers",
+      "Isolating package dependencies per project",
+      "Compiling C code",
+      "Speeding up CPU clocks"
+    ],
+    "correct_answer": "B",
+    "explanation": "Virtual environments isolate python dependencies for individual projects to avoid version conflicts."
+  },
+  {
+    "id": "PY_19",
+    "skill": "Python",
+    "question": "In Pandas, which function is preferred to merge two DataFrames on a common key?",
+    "options": [
+      "pd.concat()",
+      "pd.merge()",
+      "pd.append()",
+      "pd.combine()"
+    ],
+    "correct_answer": "B",
+    "explanation": "pd.merge() performs database-style joins on common columns or indexes."
+  },
+  {
+    "id": "PY_20",
+    "skill": "Python",
+    "question": "What does the Global Interpreter Lock (GIL) in CPython do?",
+    "options": [
+      "Prevents all multi-threading",
+      "Ensures only one thread executes Python bytecode at a time",
+      "Encrypts interpreter files",
+      "Blocks file I/O operations"
+    ],
+    "correct_answer": "B",
+    "explanation": "GIL is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes at once."
+  },
+  {
+    "id": "SQL_01",
+    "skill": "SQL",
+    "question": "Which SQL clause is used to filter groups created by GROUP BY?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "ORDER BY",
+      "FILTER"
+    ],
+    "correct_answer": "B",
+    "explanation": "HAVING filters groups of rows, whereas WHERE filters individual rows before grouping."
+  },
+  {
+    "id": "SQL_02",
+    "skill": "SQL",
+    "question": "What is the primary difference between UNION and UNION ALL?",
+    "options": [
+      "UNION retains duplicate rows, UNION ALL removes them",
+      "UNION removes duplicate rows, UNION ALL preserves duplicates",
+      "UNION only works on numbers",
+      "There is no difference"
+    ],
+    "correct_answer": "B",
+    "explanation": "UNION runs a distinct operation to remove duplicates, while UNION ALL retains all rows."
+  },
+  {
+    "id": "SQL_03",
+    "skill": "SQL",
+    "question": "Which JOIN returns all rows from the left table and matched rows from the right table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "correct_answer": "B",
+    "explanation": "A LEFT JOIN returns all records from the left table and matched records from the right table."
+  },
+  {
+    "id": "SQL_04",
+    "skill": "SQL",
+    "question": "What SQL constraint uniquely identifies each record in a database table?",
+    "options": [
+      "FOREIGN KEY",
+      "PRIMARY KEY",
+      "CHECK",
+      "NOT NULL"
+    ],
+    "correct_answer": "B",
+    "explanation": "A PRIMARY KEY constraint uniquely identifies each record and cannot contain NULL values."
+  },
+  {
+    "id": "SQL_05",
+    "skill": "SQL",
+    "question": "Which SQL aggregate function computes the total sum of a numeric column?",
+    "options": [
+      "COUNT()",
+      "SUM()",
+      "AVG()",
+      "TOTAL()"
+    ],
+    "correct_answer": "B",
+    "explanation": "SUM() calculates the mathematical total sum of numeric values."
+  },
+  {
+    "id": "SQL_06",
+    "skill": "SQL",
+    "question": "What window function ranks rows within a partition without leaving gaps for ties?",
+    "options": [
+      "RANK()",
+      "DENSE_RANK()",
+      "ROW_NUMBER()",
+      "NTILE()"
+    ],
+    "correct_answer": "B",
+    "explanation": "DENSE_RANK() assigns consecutive rank values without gaps when tied."
+  },
+  {
+    "id": "SQL_07",
+    "skill": "SQL",
+    "question": "Which command is used to permanently remove a table structure and its data?",
+    "options": [
+      "DELETE TABLE",
+      "DROP TABLE",
+      "TRUNCATE TABLE",
+      "REMOVE TABLE"
+    ],
+    "correct_answer": "B",
+    "explanation": "DROP TABLE removes the entire table definition, constraints, and data permanently."
+  },
+  {
+    "id": "SQL_08",
+    "skill": "SQL",
+    "question": "What is the purpose of an INDEX on a database column?",
+    "options": [
+      "Enforces column data types",
+      "Accelerates SELECT query data retrieval speed",
+      "Saves storage disk space",
+      "Encodes strings to binary"
+    ],
+    "correct_answer": "B",
+    "explanation": "Indexes (e.g. B-Trees) speed up lookups and joins at the cost of additional write overhead."
+  },
+  {
+    "id": "SQL_09",
+    "skill": "SQL",
+    "question": "Which statement is classified as a Data Definition Language (DDL) command?",
+    "options": [
+      "SELECT",
+      "INSERT",
+      "CREATE",
+      "UPDATE"
+    ],
+    "correct_answer": "C",
+    "explanation": "CREATE, ALTER, and DROP are DDL commands that modify schema definitions."
+  },
+  {
+    "id": "SQL_10",
+    "skill": "SQL",
+    "question": "What does `COALESCE(col1, col2, 'Default')` return?",
+    "options": [
+      "Concatenation of all values",
+      "The first non-null expression in the argument list",
+      "Count of null values",
+      "A boolean flag"
+    ],
+    "correct_answer": "B",
+    "explanation": "COALESCE returns the first non-null value from the list of provided arguments."
+  },
+  {
+    "id": "SQL_11",
+    "skill": "SQL",
+    "question": "What is the default sort order of the `ORDER BY` clause?",
+    "options": [
+      "DESC (Descending)",
+      "ASC (Ascending)",
+      "Random",
+      "Natural insertion order"
+    ],
+    "correct_answer": "B",
+    "explanation": "ORDER BY defaults to ASC (ascending order) if not specified."
+  },
+  {
+    "id": "SQL_12",
+    "skill": "SQL",
+    "question": "Which keyword eliminates duplicate rows from a query result set?",
+    "options": [
+      "UNIQUE",
+      "DISTINCT",
+      "DIFFERENT",
+      "ISOLATE"
+    ],
+    "correct_answer": "B",
+    "explanation": "SELECT DISTINCT removes duplicate rows from the query output."
+  },
+  {
+    "id": "SQL_13",
+    "skill": "SQL",
+    "question": "How does `TRUNCATE` differ from `DELETE` without a WHERE clause?",
+    "options": [
+      "TRUNCATE is a DDL operation that resets high-water marks and is generally faster",
+      "DELETE is faster than TRUNCATE",
+      "TRUNCATE can use WHERE conditions",
+      "They are identical"
+    ],
+    "correct_answer": "A",
+    "explanation": "TRUNCATE is a fast DDL command that deallocates data pages rather than logging row deletions."
+  },
+  {
+    "id": "SQL_14",
+    "skill": "SQL",
+    "question": "In SQL, what is a subquery in the FROM clause commonly known as?",
+    "options": [
+      "Correlated query",
+      "Derived table / Inline view",
+      "Scalar subquery",
+      "Trigger"
+    ],
+    "correct_answer": "B",
+    "explanation": "A subquery appearing in the FROM clause acts as a temporary derived table."
+  },
+  {
+    "id": "SQL_15",
+    "skill": "SQL",
+    "question": "Which SQL operator checks whether a value matches any value in a list or subquery?",
+    "options": [
+      "LIKE",
+      "BETWEEN",
+      "IN",
+      "EXISTS"
+    ],
+    "correct_answer": "C",
+    "explanation": "The IN operator tests if an expression matches any item in a specified list."
+  },
+  {
+    "id": "SQL_16",
+    "skill": "SQL",
+    "question": "What does ACID stand for in relational database management systems?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Control, Integrity, Data",
+      "Asynchronous, Concurrent, Isolated, Distributed",
+      "Authentication, Cryptography, Integrity, Decoupling"
+    ],
+    "correct_answer": "A",
+    "explanation": "ACID properties guarantee reliable database transactions."
+  },
+  {
+    "id": "SQL_17",
+    "skill": "SQL",
+    "question": "Which clause partitions data for window functions in SQL?",
+    "options": [
+      "GROUP BY",
+      "PARTITION BY",
+      "DIVIDE BY",
+      "SPLIT BY"
+    ],
+    "correct_answer": "B",
+    "explanation": "PARTITION BY divides the result set into partitions for window function calculations."
+  },
+  {
+    "id": "SQL_18",
+    "skill": "SQL",
+    "question": "What is a FOREIGN KEY used for?",
+    "options": [
+      "Encrypt sensitive data",
+      "Enforce referential integrity between two related tables",
+      "Speed up full text search",
+      "Store external web URLs"
+    ],
+    "correct_answer": "B",
+    "explanation": "A foreign key establishes a link between columns in two tables and enforces referential integrity."
+  },
+  {
+    "id": "SQL_19",
+    "skill": "SQL",
+    "question": "Which string function finds the length of a string in standard SQL?",
+    "options": [
+      "LEN() / LENGTH()",
+      "SIZEOF()",
+      "COUNT_CHARS()",
+      "STRLEN()"
+    ],
+    "correct_answer": "A",
+    "explanation": "LENGTH() (or LEN() in T-SQL) returns the character length of a string."
+  },
+  {
+    "id": "SQL_20",
+    "skill": "SQL",
+    "question": "What is the result of `SELECT NULL = NULL` in SQL standard three-valued logic?",
+    "options": [
+      "True",
+      "False",
+      "UNKNOWN / NULL",
+      "Syntax Error"
+    ],
+    "correct_answer": "C",
+    "explanation": "In SQL three-valued logic, comparing NULL with NULL yields UNKNOWN (NULL), requiring `IS NULL`."
+  },
+  {
+    "id": "EXCEL_01",
+    "skill": "Excel",
+    "question": "Which lookup function searches in any direction and does not require sorting or left-to-right restriction?",
+    "options": [
+      "VLOOKUP",
+      "HLOOKUP",
+      "XLOOKUP",
+      "LOOKUP"
+    ],
+    "correct_answer": "C",
+    "explanation": "XLOOKUP is modern, flexible, and can look up values in any direction without column index counting."
+  },
+  {
+    "id": "EXCEL_02",
+    "skill": "Excel",
+    "question": "What does the `$` sign do in an Excel cell formula such as `$A$1`?",
+    "options": [
+      "Formats cell as currency",
+      "Creates an absolute cell reference that does not change when copied",
+      "Converts text to numbers",
+      "Multiplies value by 100"
+    ],
+    "correct_answer": "B",
+    "explanation": "$ locks the column and row coordinate, forming an absolute reference."
+  },
+  {
+    "id": "EXCEL_03",
+    "skill": "Excel",
+    "question": "Which formula counts cells that meet a specific numerical or text criterion?",
+    "options": [
+      "COUNT()",
+      "COUNTA()",
+      "COUNTIF()",
+      "SUMIF()"
+    ],
+    "correct_answer": "C",
+    "explanation": "COUNTIF(range, criteria) counts cells satisfying the specified condition."
+  },
+  {
+    "id": "EXCEL_04",
+    "skill": "Excel",
+    "question": "What Excel tool is best suited for aggregating, summarizing, and reorganizing large tables dynamically?",
+    "options": [
+      "Conditional Formatting",
+      "Pivot Table",
+      "Data Validation",
+      "Text to Columns"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pivot Tables allow rapid multidimensional aggregation and grouping without writing formulas."
+  },
+  {
+    "id": "EXCEL_05",
+    "skill": "Excel",
+    "question": "What error appears when Excel encounters a formula that attempts division by zero?",
+    "options": [
+      "#N/A",
+      "#VALUE!",
+      "#DIV/0!",
+      "#REF!"
+    ],
+    "correct_answer": "C",
+    "explanation": "#DIV/0! occurs when a formula attempts to divide a number by zero or an empty cell."
+  },
+  {
+    "id": "EXCEL_06",
+    "skill": "Excel",
+    "question": "Which function calculates the arithmetic mean of numbers in a range?",
+    "options": [
+      "MEDIAN()",
+      "MODE()",
+      "AVERAGE()",
+      "MEAN()"
+    ],
+    "correct_answer": "C",
+    "explanation": "AVERAGE() computes the mathematical mean in Excel."
+  },
+  {
+    "id": "EXCEL_07",
+    "skill": "Excel",
+    "question": "What does the INDEX-MATCH combination provide over classic VLOOKUP?",
+    "options": [
+      "It works with both leftward lookups and resists column insertion breakage",
+      "It only works on numbers",
+      "It is 10 times slower",
+      "It requires VBA macros"
+    ],
+    "correct_answer": "A",
+    "explanation": "INDEX-MATCH can search leftward and remains intact when columns are inserted or reordered."
+  },
+  {
+    "id": "EXCEL_08",
+    "skill": "Excel",
+    "question": "Which feature restricts the type of data or values users can enter into a cell?",
+    "options": [
+      "Data Validation",
+      "Conditional Formatting",
+      "Goal Seek",
+      "Solver"
+    ],
+    "correct_answer": "A",
+    "explanation": "Data Validation allows rules like dropdown lists, whole numbers, or date constraints."
+  },
+  {
+    "id": "EXCEL_09",
+    "skill": "Excel",
+    "question": "What formula combines text strings from different cells in modern Excel?",
+    "options": [
+      "TEXTJOIN() / CONCAT()",
+      "SUM()",
+      "SPLIT()",
+      "COMBINE()"
+    ],
+    "correct_answer": "A",
+    "explanation": "TEXTJOIN() combines strings with a delimiter and option to ignore empty cells."
+  },
+  {
+    "id": "EXCEL_10",
+    "skill": "Excel",
+    "question": "Which function returns the current date and time dynamically in Excel?",
+    "options": [
+      "TODAY()",
+      "NOW()",
+      "CURRENT()",
+      "DATE()"
+    ],
+    "correct_answer": "B",
+    "explanation": "NOW() returns current date and time; TODAY() returns date only."
+  },
+  {
+    "id": "EXCEL_11",
+    "skill": "Excel",
+    "question": "What keyboard shortcut opens the Excel Format Cells dialog box in Windows?",
+    "options": [
+      "Ctrl + 1",
+      "Ctrl + F",
+      "Ctrl + Shift + P",
+      "Alt + Enter"
+    ],
+    "correct_answer": "A",
+    "explanation": "Ctrl + 1 is the universal Windows shortcut to open Format Cells."
+  },
+  {
+    "id": "EXCEL_12",
+    "skill": "Excel",
+    "question": "What is the purpose of Conditional Formatting in Excel?",
+    "options": [
+      "Automate VBA code execution",
+      "Format cells visually based on rules or cell values",
+      "Password protect sheets",
+      "Sort tables alphabetically"
+    ],
+    "correct_answer": "B",
+    "explanation": "Conditional Formatting highlights cells with colors or data bars based on defined rules."
+  },
+  {
+    "id": "EXCEL_13",
+    "skill": "Excel",
+    "question": "What does `#N/A` error signify in VLOOKUP?",
+    "options": [
+      "Formula syntax error",
+      "Value not available / lookup value not found",
+      "Memory overflow",
+      "Column index out of bounds"
+    ],
+    "correct_answer": "B",
+    "explanation": "#N/A indicates that the lookup value cannot be found in the first column of the lookup range."
+  },
+  {
+    "id": "EXCEL_14",
+    "skill": "Excel",
+    "question": "Which function checks whether multiple conditions are all True before returning True?",
+    "options": [
+      "OR()",
+      "AND()",
+      "NOT()",
+      "XOR()"
+    ],
+    "correct_answer": "B",
+    "explanation": "AND() returns True only if every logical condition supplied evaluates to True."
+  },
+  {
+    "id": "EXCEL_15",
+    "skill": "Excel",
+    "question": "What tool in Excel allows you to find the required input value to achieve a specific target result?",
+    "options": [
+      "Scenario Manager",
+      "Goal Seek",
+      "Pivot Chart",
+      "Data Table"
+    ],
+    "correct_answer": "B",
+    "explanation": "Goal Seek is a what-if analysis tool that adjusts an input to reach a targeted outcome."
+  },
+  {
+    "id": "EXCEL_16",
+    "skill": "Excel",
+    "question": "What function removes all extra spaces from text except for single spaces between words?",
+    "options": [
+      "CLEAN()",
+      "TRIM()",
+      "STRIP()",
+      "ERASE()"
+    ],
+    "correct_answer": "B",
+    "explanation": "TRIM() removes leading, trailing, and duplicate spaces from text strings."
+  },
+  {
+    "id": "EXCEL_17",
+    "skill": "Excel",
+    "question": "How do you freeze the top row of an Excel sheet so it stays visible while scrolling?",
+    "options": [
+      "View > Freeze Panes > Freeze Top Row",
+      "Home > Freeze",
+      "Insert > Panes",
+      "Data > Lock Row"
+    ],
+    "correct_answer": "A",
+    "explanation": "The Freeze Top Row option under the View tab pins row 1 to the top of the view."
+  },
+  {
+    "id": "EXCEL_18",
+    "skill": "Excel",
+    "question": "Which function returns the rank of a number in a list of numbers?",
+    "options": [
+      "RANK.EQ()",
+      "ORDER()",
+      "INDEX()",
+      "SORT()"
+    ],
+    "correct_answer": "A",
+    "explanation": "RANK.EQ() returns the statistical rank of a number within a specified array."
+  },
+  {
+    "id": "EXCEL_19",
+    "skill": "Excel",
+    "question": "What does `IFERROR(VLOOKUP(...), \"Not Found\")` do?",
+    "options": [
+      "Throws an error if found",
+      "Intercepts errors from VLOOKUP and outputs \"Not Found\" instead",
+      "Deletes the row on error",
+      "Caches the error log"
+    ],
+    "correct_answer": "B",
+    "explanation": "IFERROR evaluates an expression and returns an alternative value if an error is raised."
+  },
+  {
+    "id": "EXCEL_20",
+    "skill": "Excel",
+    "question": "Which chart type is best for displaying the distribution and spread of continuous numerical data in Excel?",
+    "options": [
+      "Pie Chart",
+      "Histogram / Box and Whisker",
+      "Donut Chart",
+      "Radar Chart"
+    ],
+    "correct_answer": "B",
+    "explanation": "Histograms and Box Plots display continuous frequency distributions and quartiles."
+  },
+  {
+    "id": "STAT_01",
+    "skill": "Statistics",
+    "question": "Which measure of central tendency is least sensitive to extreme outliers?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Variance"
+    ],
+    "correct_answer": "B",
+    "explanation": "The median represents the 50th percentile and is robust against skewed outliers."
+  },
+  {
+    "id": "STAT_02",
+    "skill": "Statistics",
+    "question": "What does the p-value in a statistical hypothesis test represent?",
+    "options": [
+      "The probability that the null hypothesis is true",
+      "The probability of observing data as extreme as observed assuming null hypothesis is true",
+      "The probability of making a Type II error",
+      "The effect size of the test"
+    ],
+    "correct_answer": "B",
+    "explanation": "p-value measures the probability of obtaining test results at least as extreme under the null hypothesis."
+  },
+  {
+    "id": "STAT_03",
+    "skill": "Statistics",
+    "question": "What does a correlation coefficient of -0.85 indicate between two variables?",
+    "options": [
+      "No correlation",
+      "Weak negative correlation",
+      "Strong negative linear relationship",
+      "Curvilinear relationship"
+    ],
+    "correct_answer": "C",
+    "explanation": "Pearson r near -1 indicates a strong negative linear association."
+  },
+  {
+    "id": "STAT_04",
+    "skill": "Statistics",
+    "question": "What is the Central Limit Theorem (CLT)?",
+    "options": [
+      "Sample mean always equals population mean",
+      "Sampling distribution of sample means approaches normality as sample size increases regardless of population distribution",
+      "All variables in nature are normally distributed",
+      "Standard error increases with sample size"
+    ],
+    "correct_answer": "B",
+    "explanation": "CLT states the sampling distribution of means becomes approximately normal for large n."
+  },
+  {
+    "id": "STAT_05",
+    "skill": "Statistics",
+    "question": "What is a Type I error in hypothesis testing?",
+    "options": [
+      "Failing to reject a false null hypothesis",
+      "Rejecting a true null hypothesis (False Positive)",
+      "Calculating the incorrect degrees of freedom",
+      "Selecting non-random samples"
+    ],
+    "correct_answer": "B",
+    "explanation": "Type I error (alpha) occurs when a true null hypothesis is incorrectly rejected."
+  },
+  {
+    "id": "STAT_06",
+    "skill": "Statistics",
+    "question": "What is a Type II error in hypothesis testing?",
+    "options": [
+      "Rejecting a true null hypothesis",
+      "Failing to reject a false null hypothesis (False Negative)",
+      "Sample size too small",
+      "P-value equals zero"
+    ],
+    "correct_answer": "B",
+    "explanation": "Type II error (beta) occurs when a false null hypothesis is failed to be rejected."
+  },
+  {
+    "id": "STAT_07",
+    "skill": "Statistics",
+    "question": "What percentage of data falls within 2 standard deviations of the mean in a standard normal distribution?",
+    "options": [
+      "Approximately 68%",
+      "Approximately 95.4%",
+      "Approximately 99.7%",
+      "100%"
+    ],
+    "correct_answer": "B",
+    "explanation": "The empirical 68-95-99.7 rule states that ~95.4% of data falls within +/- 2 standard deviations."
+  },
+  {
+    "id": "STAT_08",
+    "skill": "Statistics",
+    "question": "What formula represents Variance in terms of Standard Deviation?",
+    "options": [
+      "Variance = sqrt(Standard Deviation)",
+      "Variance = (Standard Deviation)^2",
+      "Variance = Standard Deviation / 2",
+      "Variance = 2 * Standard Deviation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Variance is mathematically the square of the standard deviation."
+  },
+  {
+    "id": "STAT_09",
+    "skill": "Statistics",
+    "question": "Which test is appropriate for comparing means between two independent normally distributed groups?",
+    "options": [
+      "Chi-Square test",
+      "Independent Two-Sample Student's t-test",
+      "One-way ANOVA",
+      "Kruskal-Wallis test"
+    ],
+    "correct_answer": "B",
+    "explanation": "Two-sample t-test compares the population means of two independent groups."
+  },
+  {
+    "id": "STAT_10",
+    "skill": "Statistics",
+    "question": "When is ANOVA (Analysis of Variance) used instead of multiple t-tests?",
+    "options": [
+      "To compare means of 3 or more groups while controlling Family-Wise Type I error rate",
+      "To compare categorical frequencies",
+      "Only when sample size is less than 10",
+      "To measure linear correlation"
+    ],
+    "correct_answer": "A",
+    "explanation": "ANOVA compares means across 3+ groups without inflating Type I error risk."
+  },
+  {
+    "id": "STAT_11",
+    "skill": "Statistics",
+    "question": "What does the Interquartile Range (IQR) represent?",
+    "options": [
+      "Q1 + Q3",
+      "Q3 - Q1 (Range of the middle 50% of the distribution)",
+      "Maximum - Minimum",
+      "Mean - Median"
+    ],
+    "correct_answer": "B",
+    "explanation": "IQR is Q3 (75th percentile) minus Q1 (25th percentile)."
+  },
+  {
+    "id": "STAT_12",
+    "skill": "Statistics",
+    "question": "Which probability distribution is commonly used to model the number of independent events occurring in a fixed interval of time?",
+    "options": [
+      "Normal distribution",
+      "Poisson distribution",
+      "Uniform distribution",
+      "Binomial distribution"
+    ],
+    "correct_answer": "B",
+    "explanation": "Poisson distribution models count data of events occurring at a constant average rate in fixed time/space."
+  },
+  {
+    "id": "STAT_13",
+    "skill": "Statistics",
+    "question": "What does Bayes' Theorem describe?",
+    "options": [
+      "Joint probability of mutually exclusive events",
+      "Conditional probability of an event given prior knowledge of conditions related to the event",
+      "Probability of sampling without replacement",
+      "Central tendency of skewed data"
+    ],
+    "correct_answer": "B",
+    "explanation": "P(A|B) = [P(B|A) * P(A)] / P(B), describing posterior probability updated with evidence."
+  },
+  {
+    "id": "STAT_14",
+    "skill": "Statistics",
+    "question": "What is multicollinearity in statistical regression?",
+    "options": [
+      "High correlation between the dependent and independent variables",
+      "High correlation between two or more independent (predictor) variables",
+      "Non-constant variance of residuals",
+      "Lack of normal distribution in errors"
+    ],
+    "correct_answer": "B",
+    "explanation": "Multicollinearity occurs when independent predictors are strongly linearly correlated with each other."
+  },
+  {
+    "id": "STAT_15",
+    "skill": "Statistics",
+    "question": "What is Homoscedasticity?",
+    "options": [
+      "Residuals having constant variance across all levels of independent variables",
+      "Non-linear relationship between features",
+      "Outliers in the target variable",
+      "Bimodal distribution of predictors"
+    ],
+    "correct_answer": "A",
+    "explanation": "Homoscedasticity refers to equal/constant error variance across predictor ranges."
+  },
+  {
+    "id": "STAT_16",
+    "skill": "Statistics",
+    "question": "What metric measures the proportion of variance in the dependent variable explained by independent variables?",
+    "options": [
+      "Pearson r",
+      "Coefficient of Determination (R-squared)",
+      "Standard error",
+      "F-statistic"
+    ],
+    "correct_answer": "B",
+    "explanation": "R-squared represents the proportion of total variance explained by the regression model."
+  },
+  {
+    "id": "STAT_17",
+    "skill": "Statistics",
+    "question": "What is a Z-score?",
+    "options": [
+      "The distance of a value from the mean measured in standard deviation units",
+      "The median divided by the variance",
+      "The probability of an outlier",
+      "The degrees of freedom"
+    ],
+    "correct_answer": "A",
+    "explanation": "Z = (X - mu) / sigma, representing normalized distance from the population mean."
+  },
+  {
+    "id": "STAT_18",
+    "skill": "Statistics",
+    "question": "Which distribution has heavier tails than the normal distribution and is used when sample size is small with unknown population variance?",
+    "options": [
+      "Student's t-distribution",
+      "Uniform distribution",
+      "Exponential distribution",
+      "Chi-Square distribution"
+    ],
+    "correct_answer": "A",
+    "explanation": "Student's t-distribution has fatter tails to account for greater uncertainty with small sample sizes."
+  },
+  {
+    "id": "STAT_19",
+    "skill": "Statistics",
+    "question": "What does a Chi-Square Test of Independence assess?",
+    "options": [
+      "Differences between two numerical means",
+      "Association between two categorical variables",
+      "Normality of a dataset",
+      "Homogeneity of regression coefficients"
+    ],
+    "correct_answer": "B",
+    "explanation": "Chi-square test of independence tests whether categorical variables are statistically independent."
+  },
+  {
+    "id": "STAT_20",
+    "skill": "Statistics",
+    "question": "If a distribution is right-skewed (positively skewed), what is the typical relationship between mean, median, and mode?",
+    "options": [
+      "Mean < Median < Mode",
+      "Mode < Median < Mean",
+      "Mean = Median = Mode",
+      "Median < Mode < Mean"
+    ],
+    "correct_answer": "B",
+    "explanation": "In right-skewed distributions, the long tail pulls the Mean to the right: Mode < Median < Mean."
+  },
+  {
+    "id": "ML_01",
+    "skill": "Machine Learning",
+    "question": "What problem occurs when a model performs exceptionally well on training data but poorly on unseen test data?",
+    "options": [
+      "Underfitting",
+      "Overfitting",
+      "Data drift",
+      "Imbalanced classes"
+    ],
+    "correct_answer": "B",
+    "explanation": "Overfitting occurs when a model memorizes noise in training data, harming generalization."
+  },
+  {
+    "id": "ML_02",
+    "skill": "Machine Learning",
+    "question": "Which of the following is a supervised learning task?",
+    "options": [
+      "K-Means Clustering",
+      "Predicting house prices using Linear Regression",
+      "Principal Component Analysis (PCA)",
+      "Association Rule Mining"
+    ],
+    "correct_answer": "B",
+    "explanation": "Supervised learning trains on labeled target variables, like continuous house price prediction."
+  },
+  {
+    "id": "ML_03",
+    "skill": "Machine Learning",
+    "question": "What is the trade-off in the Bias-Variance dilemma?",
+    "options": [
+      "High bias causes underfitting; high variance causes overfitting",
+      "High bias causes overfitting; high variance causes underfitting",
+      "Bias and variance must always sum to 1",
+      "Bias only applies to neural networks"
+    ],
+    "correct_answer": "A",
+    "explanation": "High bias implies overly simplistic assumptions (underfit); high variance implies hypersensitivity to noise (overfit)."
+  },
+  {
+    "id": "ML_04",
+    "skill": "Machine Learning",
+    "question": "Which metric is most suitable for evaluating a classification model with highly imbalanced classes?",
+    "options": [
+      "Accuracy",
+      "F1-Score / PR-AUC",
+      "Mean Squared Error",
+      "R-squared"
+    ],
+    "correct_answer": "B",
+    "explanation": "F1-score (harmonic mean of precision & recall) balances false positives and false negatives without accuracy paradox."
+  },
+  {
+    "id": "ML_05",
+    "skill": "Machine Learning",
+    "question": "How does Random Forest reduce the variance of individual Decision Trees?",
+    "options": [
+      "By boosting errors sequentially",
+      "By bagging (bootstrap aggregating) and random feature subspace selection",
+      "By pruning the trees to depth 1",
+      "By using L1 regularization"
+    ],
+    "correct_answer": "B",
+    "explanation": "Random Forest trains diverse trees on bootstrap samples with random feature splits, averaging predictions to reduce variance."
+  },
+  {
+    "id": "ML_06",
+    "skill": "Machine Learning",
+    "question": "What does L1 (Lasso) regularization do to model coefficients that L2 (Ridge) does not?",
+    "options": [
+      "It shrinks coefficients smoothly without zeroing them",
+      "It can shrink coefficients strictly to zero, performing automatic feature selection",
+      "It squares the weights in the penalty term",
+      "It doubles training speed"
+    ],
+    "correct_answer": "B",
+    "explanation": "Lasso adds |w| penalty, forcing uninformative feature coefficients exactly to zero."
+  },
+  {
+    "id": "ML_07",
+    "skill": "Machine Learning",
+    "question": "What is the primary role of cross-validation (e.g., 5-fold CV)?",
+    "options": [
+      "To speed up gradient descent convergence",
+      "To reliably estimate generalization performance and detect overfitting",
+      "To artificially increase sample size",
+      "To clean corrupted CSV rows"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cross-validation rotates validation folds to yield robust estimates of model generalization error."
+  },
+  {
+    "id": "ML_08",
+    "skill": "Machine Learning",
+    "question": "What is Data Leakage in a machine learning pipeline?",
+    "options": [
+      "Saving model weights in plaintext",
+      "Accidentally sharing information from outside the training dataset (such as test set or future data) during model training",
+      "Hardware RAM running out of memory",
+      "Network packet drops during training"
+    ],
+    "correct_answer": "B",
+    "explanation": "Data leakage occurs when test information bleeds into preprocessing or training, creating misleadingly optimistic evaluation."
+  },
+  {
+    "id": "ML_09",
+    "skill": "Machine Learning",
+    "question": "In Logistic Regression, what mathematical function maps any real-valued number into a probability between 0 and 1?",
+    "options": [
+      "ReLU function",
+      "Sigmoid (Logistic) function",
+      "Tanh function",
+      "Softplus function"
+    ],
+    "correct_answer": "B",
+    "explanation": "The sigmoid function sigma(z) = 1 / (1 + e^-z) squashes linear combination z into [0, 1]."
+  },
+  {
+    "id": "ML_10",
+    "skill": "Machine Learning",
+    "question": "What distance metric is standardly used by default in K-Nearest Neighbors (KNN)?",
+    "options": [
+      "Cosine Distance",
+      "Euclidean Distance",
+      "Manhattan Distance",
+      "Hamming Distance"
+    ],
+    "correct_answer": "B",
+    "explanation": "Standard KNN implementations default to Euclidean distance: sqrt(sum((x_i - y_i)^2))."
+  },
+  {
+    "id": "ML_11",
+    "skill": "Machine Learning",
+    "question": "Why is feature scaling essential for distance-based algorithms like KNN and SVM?",
+    "options": [
+      "Because features with larger numerical magnitudes will dominate distance calculations",
+      "Scaling increases dataset memory size",
+      "Distance algorithms fail on scaled features",
+      "It is only necessary for decision trees"
+    ],
+    "correct_answer": "A",
+    "explanation": "Without scaling, a feature spanning 0-100,000 dominates features spanning 0-1 regardless of predictive importance."
+  },
+  {
+    "id": "ML_12",
+    "skill": "Machine Learning",
+    "question": "What is the purpose of pruning in Decision Trees?",
+    "options": [
+      "To increase training accuracy",
+      "To remove branches that provide little power to prevent overfitting",
+      "To convert regression tree to classification",
+      "To calculate gradient vectors"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pruning simplifies complex tree structures to improve generalization on unseen test data."
+  },
+  {
+    "id": "ML_13",
+    "skill": "Machine Learning",
+    "question": "What does the ROC-AUC score measure?",
+    "options": [
+      "The area under the receiver operating characteristic curve across all classification thresholds",
+      "The accuracy of regression residuals",
+      "The training speed per epoch",
+      "The percentage of missing values"
+    ],
+    "correct_answer": "A",
+    "explanation": "ROC-AUC measures the classifier's ability to rank positive instances above negative instances across thresholds."
+  },
+  {
+    "id": "ML_14",
+    "skill": "Machine Learning",
+    "question": "Which algorithm works by sequentially training weak learners to correct errors of predecessor models?",
+    "options": [
+      "Random Forest",
+      "Bagging Classifier",
+      "Gradient Boosting / AdaBoost",
+      "K-Means"
+    ],
+    "correct_answer": "C",
+    "explanation": "Boosting sequentially fits new models to the pseudo-residuals of previous learners."
+  },
+  {
+    "id": "ML_15",
+    "skill": "Machine Learning",
+    "question": "What is the Confusion Matrix element representing cases where the model predicted negative, but the true class was positive?",
+    "options": [
+      "True Positive (TP)",
+      "False Positive (FP)",
+      "False Negative (FN)",
+      "True Negative (TN)"
+    ],
+    "correct_answer": "C",
+    "explanation": "False Negative (Type II error) is an actual positive incorrectly labeled as negative."
+  },
+  {
+    "id": "ML_16",
+    "skill": "Machine Learning",
+    "question": "What does Precision measure in classification?",
+    "options": [
+      "TP / (TP + FP) — What proportion of predicted positives was truly correct",
+      "TP / (TP + FN) — What proportion of actual positives was identified",
+      "TN / (TN + FP)",
+      "Total correct predictions / Total samples"
+    ],
+    "correct_answer": "A",
+    "explanation": "Precision measures the veracity of positive predictions: TP / (TP + FP)."
+  },
+  {
+    "id": "ML_17",
+    "skill": "Machine Learning",
+    "question": "What does Recall (Sensitivity) measure in classification?",
+    "options": [
+      "TP / (TP + FP)",
+      "TP / (TP + FN) — What proportion of actual positive cases was captured",
+      "FP / (FP + TN)",
+      "TN / (TN + FN)"
+    ],
+    "correct_answer": "B",
+    "explanation": "Recall measures the model's coverage of real positive instances: TP / (TP + FN)."
+  },
+  {
+    "id": "ML_18",
+    "skill": "Machine Learning",
+    "question": "Which method decomposes high-dimensional feature spaces into orthogonal axes maximizing variance?",
+    "options": [
+      "K-Means",
+      "Principal Component Analysis (PCA)",
+      "Linear Regression",
+      "DBSCAN"
+    ],
+    "correct_answer": "B",
+    "explanation": "PCA finds orthogonal linear combinations of features that capture maximum variance."
+  },
+  {
+    "id": "ML_19",
+    "skill": "Machine Learning",
+    "question": "What is Hyperparameter Tuning?",
+    "options": [
+      "Optimizing model parameters learned automatically during backpropagation",
+      "Searching for optimal configuration parameters set prior to training (like learning rate, tree depth)",
+      "Formatting JSON configuration files",
+      "Cleaning dirty CSV datasets"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hyperparameters are external configuration knobs (e.g. max_depth, n_neighbors) optimized via Grid/Random search."
+  },
+  {
+    "id": "ML_20",
+    "skill": "Machine Learning",
+    "question": "Why should feature scaling (e.g., StandardScaler) be fitted only on training data and transformed on test data?",
+    "options": [
+      "To prevent data leakage of test set distribution statistics into the training process",
+      "Because test sets cannot be transformed",
+      "StandardScaler works only on training sets",
+      "To make the model run faster"
+    ],
+    "correct_answer": "A",
+    "explanation": "Fitting on the whole dataset introduces test set mean and standard deviation into the training phase, violating generalization validity."
+  },
+  {
+    "id": "PBI_01",
+    "skill": "Power BI",
+    "question": "What language is used in Power BI to create custom calculated columns and measures?",
+    "options": [
+      "Python",
+      "M",
+      "DAX (Data Analysis Expressions)",
+      "SQL"
+    ],
+    "correct_answer": "C",
+    "explanation": "DAX is the formula expression language used for custom calculations and aggregations in Power BI."
+  },
+  {
+    "id": "PBI_02",
+    "skill": "Power BI",
+    "question": "What language is used in Power Query for data transformation and ETL?",
+    "options": [
+      "DAX",
+      "M Language",
+      "R",
+      "C#"
+    ],
+    "correct_answer": "B",
+    "explanation": "Power Query transformations are recorded and executed in the M formula language."
+  },
+  {
+    "id": "PBI_03",
+    "skill": "Power BI",
+    "question": "What is the key difference between a Calculated Column and a Measure in Power BI?",
+    "options": [
+      "Calculated columns are evaluated row-by-row and stored in RAM; Measures are calculated dynamically on aggregate in the visual filter context",
+      "Measures consume more disk space than calculated columns",
+      "Calculated columns are dynamic; Measures are static",
+      "There is no difference"
+    ],
+    "correct_answer": "A",
+    "explanation": "Calculated columns expand table footprint in memory; measures compute on-the-fly based on visual context."
+  },
+  {
+    "id": "PBI_04",
+    "skill": "Power BI",
+    "question": "What DAX function modifies the evaluation filter context of an expression?",
+    "options": [
+      "SUM()",
+      "CALCULATE()",
+      "FILTER()",
+      "RELATED()"
+    ],
+    "correct_answer": "B",
+    "explanation": "CALCULATE evaluates an expression in an altered or overridden filter context."
+  },
+  {
+    "id": "PBI_05",
+    "skill": "Power BI",
+    "question": "Which data modeling schema is strongly recommended as best practice in Power BI?",
+    "options": [
+      "Flat wide table",
+      "Star Schema (Fact and Dimension tables)",
+      "Normalized 3NF relational schema",
+      "Network graph schema"
+    ],
+    "correct_answer": "B",
+    "explanation": "Star schemas optimize Power BI's VertiPaq columnar in-memory storage engine and relationship traversals."
+  },
+  {
+    "id": "PBI_06",
+    "skill": "Power BI",
+    "question": "What does the `RELATED()` function in DAX do?",
+    "options": [
+      "Fetches a related value from another table connected by an active relationship",
+      "Calculates correlation between two columns",
+      "Creates a new relationship automatically",
+      "Filters unrelated tables"
+    ],
+    "correct_answer": "A",
+    "explanation": "RELATED() retrieves a value from a related dimension table along an active relationship."
+  },
+  {
+    "id": "PBI_07",
+    "skill": "Power BI",
+    "question": "What is the purpose of Power BI's Power Query Editor?",
+    "options": [
+      "Design reports and visual dashboards",
+      "Extract, Transform, and Load (ETL) data before loading into the model",
+      "Manage Azure workspace permissions",
+      "Write DAX measures"
+    ],
+    "correct_answer": "B",
+    "explanation": "Power Query is the ETL interface for ingestion, cleansing, pivoting, and shaping raw data."
+  },
+  {
+    "id": "PBI_08",
+    "skill": "Power BI",
+    "question": "Which visual is most effective for visualizing the composition of a metric through sequential positive and negative changes?",
+    "options": [
+      "Scatter Plot",
+      "Waterfall Chart",
+      "Gauge Chart",
+      "Treemap"
+    ],
+    "correct_answer": "B",
+    "explanation": "Waterfall charts display cumulative running totals as values are added or subtracted."
+  },
+  {
+    "id": "PBI_09",
+    "skill": "Power BI",
+    "question": "What is Row-Level Security (RLS) used for in Power BI?",
+    "options": [
+      "Encrypting the database hard drive",
+      "Restricting data access for specific users based on role filters",
+      "Compressing column size",
+      "Speeding up network queries"
+    ],
+    "correct_answer": "B",
+    "explanation": "RLS restricts data visibility so users only see rows allowed by their security role filter."
+  },
+  {
+    "id": "PBI_10",
+    "skill": "Power BI",
+    "question": "What is the difference between DirectQuery and Import mode in Power BI?",
+    "options": [
+      "Import caches data in memory for rapid response; DirectQuery queries the underlying source dynamically in real time",
+      "DirectQuery is always faster than Import",
+      "Import mode cannot refresh data",
+      "DirectQuery stores data on local desktop"
+    ],
+    "correct_answer": "A",
+    "explanation": "Import stores compressed columnar data in VertiPaq engine; DirectQuery pushes queries down to the source live."
+  },
+  {
+    "id": "PBI_11",
+    "skill": "Power BI",
+    "question": "What feature allows report viewers to dynamically slice and filter visuals on a page by date or category?",
+    "options": [
+      "Slicer",
+      "KPI Card",
+      "Tooltip",
+      "Matrix"
+    ],
+    "correct_answer": "A",
+    "explanation": "Slicers are on-canvas visual controls allowing users to filter other visuals on the report page."
+  },
+  {
+    "id": "PBI_12",
+    "skill": "Power BI",
+    "question": "What DAX function returns the current row count of a table or filtered table?",
+    "options": [
+      "COUNT()",
+      "COUNTROWS()",
+      "DISTINCTCOUNT()",
+      "SUM()"
+    ],
+    "correct_answer": "B",
+    "explanation": "COUNTROWS(table) counts the number of rows in the specified table or table expression."
+  },
+  {
+    "id": "PBI_13",
+    "skill": "Power BI",
+    "question": "What is a Cardinality setting in Power BI relationships?",
+    "options": [
+      "The direction of data compression",
+      "The nature of the relationship: One-to-Many, Many-to-One, One-to-One, or Many-to-Many",
+      "The number of measures on a page",
+      "The color palette scheme"
+    ],
+    "correct_answer": "B",
+    "explanation": "Cardinality describes the multiplicity of keys across related tables (e.g. 1:*, *:1)."
+  },
+  {
+    "id": "PBI_14",
+    "skill": "Power BI",
+    "question": "What does cross-filter direction 'Both' mean in a relationship?",
+    "options": [
+      "Filters applied to either table propagate across the relationship to filter the other",
+      "Only dimension filters fact",
+      "Both tables are duplicated",
+      "Queries run twice"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bi-directional filtering allows filters to travel in both directions across the relationship."
+  },
+  {
+    "id": "PBI_15",
+    "skill": "Power BI",
+    "question": "What visual is best for comparing values across two categorical dimensions with hierarchical tiles?",
+    "options": [
+      "Donut chart",
+      "Treemap",
+      "Line chart",
+      "Funnel chart"
+    ],
+    "correct_answer": "B",
+    "explanation": "Treemaps visualize hierarchical nested rectangles proportional to quantitative metrics."
+  },
+  {
+    "id": "PBI_16",
+    "skill": "Power BI",
+    "question": "How do you prevent a specific visual from being affected when a slicer selection changes?",
+    "options": [
+      "Format > Edit Interactions > Select 'None'",
+      "Delete the visual",
+      "Hide the visual in selection pane",
+      "Lock the slicer"
+    ],
+    "correct_answer": "A",
+    "explanation": "Edit Interactions enables configuring whether an interaction filters, highlights, or does nothing."
+  },
+  {
+    "id": "PBI_17",
+    "skill": "Power BI",
+    "question": "What DAX function is used to ignore all filters on a column or table?",
+    "options": [
+      "REMOVE()",
+      "ALL()",
+      "KEEPFILTERS()",
+      "CLEAR()"
+    ],
+    "correct_answer": "B",
+    "explanation": "ALL() removes all filter context from specified columns or tables, commonly used in denominator calculations."
+  },
+  {
+    "id": "PBI_18",
+    "skill": "Power BI",
+    "question": "What is a Power BI Workspace?",
+    "options": [
+      "A local folder on Windows Desktop",
+      "A shared collaborative cloud container in Power BI Service for dashboards, reports, and datasets",
+      "A Python script environment",
+      "A database backup file"
+    ],
+    "correct_answer": "B",
+    "explanation": "Workspaces are shared containers in Power BI Service for publishing, collaborating, and distributing artifacts."
+  },
+  {
+    "id": "PBI_19",
+    "skill": "Power BI",
+    "question": "What is Drillthrough in Power BI reports?",
+    "options": [
+      "A navigation action taking users to a focused detail page filtered to the selected entity",
+      "Drilling a hole in a pie chart",
+      "Exporting data to CSV",
+      "Importing data from SQL server"
+    ],
+    "correct_answer": "A",
+    "explanation": "Drillthrough navigates to a designated destination page focused specifically on the clicked entity context."
+  },
+  {
+    "id": "PBI_20",
+    "skill": "Power BI",
+    "question": "Which visual shows progress toward a measurable target or quota?",
+    "options": [
+      "Gauge / KPI Visual",
+      "Scatter Plot",
+      "Sankey Diagram",
+      "Ribbon Chart"
+    ],
+    "correct_answer": "A",
+    "explanation": "Gauge and KPI visuals clearly display current values against minimum, target, and maximum thresholds."
+  },
+  {
+    "id": "COMM_01",
+    "skill": "Communication",
+    "question": "When presenting complex machine learning findings to non-technical business stakeholders, what is the best practice?",
+    "options": [
+      "Use detailed mathematical formulas and loss curves",
+      "Focus on business value, key insights, and actionable recommendations using clear domain language",
+      "Skip the presentation and send the raw Python script",
+      "Speak strictly in statistical jargon"
+    ],
+    "correct_answer": "B",
+    "explanation": "Business leaders prioritize bottom-line impact, risk, and ROI over algorithm internals."
+  },
+  {
+    "id": "COMM_02",
+    "skill": "Communication",
+    "question": "What is Active Listening in a workplace collaboration setting?",
+    "options": [
+      "Waiting patiently for your turn to speak",
+      "Fully concentrating, understanding, responding, and thoughtfully summarizing what the speaker said",
+      "Recording the audio meeting secretly",
+      "Nodding continuously without speaking"
+    ],
+    "correct_answer": "B",
+    "explanation": "Active listening involves intentional comprehension, clarifying questions, and validation."
+  },
+  {
+    "id": "COMM_03",
+    "skill": "Communication",
+    "question": "What is the primary purpose of the 'STAR' technique in behavioral job interviews?",
+    "options": [
+      "Structure answers logically using Situation, Task, Action, and Result",
+      "State Technical Acronyms Rapidly",
+      "Score Top Applicant Ratings",
+      "Show Transparent Academic Records"
+    ],
+    "correct_answer": "A",
+    "explanation": "STAR provides a clear, structured storytelling framework for competency questions."
+  },
+  {
+    "id": "COMM_04",
+    "skill": "Communication",
+    "question": "What does the '7 Cs' of effective professional communication include?",
+    "options": [
+      "Clear, Concise, Concrete, Correct, Coherent, Complete, Courteous",
+      "Complex, Casual, Cryptic, Critical, Clever, Consistent, Constant",
+      "Coding, Calculating, Computing, Connecting, Converting, Checking, Caching",
+      "None of the above"
+    ],
+    "correct_answer": "A",
+    "explanation": "The 7 Cs ensure clarity, efficiency, and professional etiquette in workplace communication."
+  },
+  {
+    "id": "COMM_05",
+    "skill": "Communication",
+    "question": "In email communication, what is the most appropriate way to deliver constructive project feedback?",
+    "options": [
+      "Publicly email all team members highlighting mistakes in uppercase",
+      "Be specific, objective, respectful, focus on the work rather than personal traits, and suggest next steps",
+      "Send vague complaints without examples",
+      "Avoid mentioning any areas for improvement"
+    ],
+    "correct_answer": "B",
+    "explanation": "Effective feedback is constructive, actionable, objective, and psychologically safe."
+  },
+  {
+    "id": "COMM_06",
+    "skill": "Communication",
+    "question": "When creating slides for an executive presentation, what is the '10/20/30 Rule' popularized by Guy Kawasaki?",
+    "options": [
+      "10 slides, 20 minutes duration, minimum 30-point font size",
+      "10 topics, 20 visuals, 30 paragraphs",
+      "10 equations, 20 data tables, 30 slides",
+      "10 colors, 20 icons, 30 seconds per slide"
+    ],
+    "correct_answer": "A",
+    "explanation": "The rule advocates simplicity: 10 slides, 20 minutes, 30-pt font to prevent text overcrowding."
+  },
+  {
+    "id": "COMM_07",
+    "skill": "Communication",
+    "question": "What is non-verbal communication?",
+    "options": [
+      "Writing long emails",
+      "Body language, facial expressions, eye contact, and tone of voice",
+      "Communicating using only SQL scripts",
+      "Silent telepathy"
+    ],
+    "correct_answer": "B",
+    "explanation": "Non-verbal communication conveys subtle emotional cues and engagement without spoken words."
+  },
+  {
+    "id": "COMM_08",
+    "skill": "Communication",
+    "question": "How should a data professional handle a situation where a stakeholder requests an unrealistic project deadline?",
+    "options": [
+      "Agree immediately and burn out",
+      "Communicate transparently, present data-driven effort estimates, and negotiate scoped deliverables or phased milestones",
+      "Ignore the stakeholder's messages",
+      "Complain on social media"
+    ],
+    "correct_answer": "B",
+    "explanation": "Professional diplomacy pairs realistic transparency with constructive phased solutions."
+  },
+  {
+    "id": "COMM_09",
+    "skill": "Communication",
+    "question": "What is the primary purpose of an 'Executive Summary' in a technical report?",
+    "options": [
+      "Provide a concise high-level synthesis of problem, findings, and recommendations for busy decision-makers",
+      "List all Python dependencies and versions",
+      "Include full database schema DDL",
+      "Show raw CSV output"
+    ],
+    "correct_answer": "A",
+    "explanation": "Executive summaries distill the core thesis and actionable takeaways into a single readable page."
+  },
+  {
+    "id": "COMM_10",
+    "skill": "Communication",
+    "question": "In conflict resolution between team members, what is the recommended first step?",
+    "options": [
+      "Escalate immediately to senior management",
+      "Clarify the core issue objectively through open dialogue and identify shared common goals",
+      "Avoid speaking to each other",
+      "Cast a public vote on who is right"
+    ],
+    "correct_answer": "B",
+    "explanation": "De-escalation begins with objective fact-finding and identifying shared objectives."
+  },
+  {
+    "id": "COMM_11",
+    "skill": "Communication",
+    "question": "What makes a data visualization story effective for business audiences?",
+    "options": [
+      "Using 3D pie charts with 20 distinct bright colors",
+      "A clear narrative, purposeful chart selection, highlighted key insights, and minimal clutter",
+      "Packing as many charts on one page as possible",
+      "Omitting axis labels to save space"
+    ],
+    "correct_answer": "B",
+    "explanation": "Data storytelling connects visual clarity with a purposeful narrative and decluttered layout."
+  },
+  {
+    "id": "COMM_12",
+    "skill": "Communication",
+    "question": "What is the best way to open a technical presentation to capture audience interest?",
+    "options": [
+      "Start with a 10-minute autobiography",
+      "State the core problem statement, why it matters to the organization, and what solution will be revealed",
+      "Read code line by line",
+      "Apologize for being nervous"
+    ],
+    "correct_answer": "B",
+    "explanation": "Hooking the audience requires articulating relevance and strategic value immediately."
+  },
+  {
+    "id": "COMM_13",
+    "skill": "Communication",
+    "question": "What does 'Empathy' in stakeholder management mean?",
+    "options": [
+      "Agreeing to every request without question",
+      "Understanding the stakeholder's priorities, pain points, pressures, and perspective",
+      "Feeling sorry for other departments",
+      "Offering financial compensation"
+    ],
+    "correct_answer": "B",
+    "explanation": "Empathy aligns analytical solutions with the authentic operational pressures stakeholders face."
+  },
+  {
+    "id": "COMM_14",
+    "skill": "Communication",
+    "question": "How should you respond to a challenging technical question during an interview or presentation if you do not know the answer?",
+    "options": [
+      "Fabricate an answer confidently",
+      "Honestly acknowledge you do not know, explain your thought process on how you would investigate it, and offer to follow up",
+      "Change the subject quickly",
+      "Argue with the interviewer"
+    ],
+    "correct_answer": "B",
+    "explanation": "Intellectual honesty coupled with structured analytical curiosity demonstrates integrity and maturity."
+  },
+  {
+    "id": "COMM_15",
+    "skill": "Communication",
+    "question": "Why is 'Conciseness' valued in written business communication?",
+    "options": [
+      "It respects the reader's time and delivers the message with maximum impact and minimum ambiguity",
+      "It shows the writer does not know details",
+      "Short messages are always informal",
+      "It prevents grammar checks"
+    ],
+    "correct_answer": "A",
+    "explanation": "Concise writing eliminates bloat while preserving clarity and essential facts."
+  },
+  {
+    "id": "COMM_16",
+    "skill": "Communication",
+    "question": "What is the purpose of a Daily Standup meeting in Agile/Scrum?",
+    "options": [
+      "Deliver a 2-hour technical lecture",
+      "Briefly share what was accomplished yesterday, what is planned today, and any blocking obstacles",
+      "Conduct formal performance evaluations",
+      "Assign blames for sprint bugs"
+    ],
+    "correct_answer": "B",
+    "explanation": "Standups provide rapid alignment on progress and immediate identification of bottlenecks."
+  },
+  {
+    "id": "COMM_17",
+    "skill": "Communication",
+    "question": "What is the best strategy when communicating with someone who has an aggressive communication style?",
+    "options": [
+      "Respond with equal aggression",
+      "Stay calm, maintain professional composure, focus strictly on facts, and set respectful boundaries",
+      "Leave the company immediately",
+      "Agree to invalid claims"
+    ],
+    "correct_answer": "B",
+    "explanation": "De-escalating aggression requires calm neutrality and factual grounding."
+  },
+  {
+    "id": "COMM_18",
+    "skill": "Communication",
+    "question": "Which of the following demonstrates strong intercultural communication competence?",
+    "options": [
+      "Assuming all cultures communicate identically to your own",
+      "Being culturally sensitive, patient, attentive to communication norms, and avoiding culture-specific slang",
+      "Using complex regional idioms",
+      "Speaking louder when people don't understand"
+    ],
+    "correct_answer": "B",
+    "explanation": "Global teamwork thrives on adaptability, patience, and inclusive phrasing."
+  },
+  {
+    "id": "COMM_19",
+    "skill": "Communication",
+    "question": "What does the 'Pyramid Principle' in business communication suggest?",
+    "options": [
+      "Start with the core conclusion or recommendation first, then support it with grouped arguments and supporting data",
+      "Start with raw data and reveal the answer only at the very end",
+      "Communicate only in triangular diagrams",
+      "Hierarchy determines whose opinion is right"
+    ],
+    "correct_answer": "A",
+    "explanation": "Developed by Barbara Minto at McKinsey, top-down structure accelerates comprehension."
+  },
+  {
+    "id": "COMM_20",
+    "skill": "Communication",
+    "question": "How should technical documentation (such as a README or API doc) be written?",
+    "options": [
+      "Cryptically to protect proprietary logic",
+      "Clear, structured, reproducible, with prerequisites, installation steps, and code examples",
+      "Only with screenshots, no text",
+      "As an unstructured single paragraph"
+    ],
+    "correct_answer": "B",
+    "explanation": "High-quality documentation empowers seamless onboarding, reproducibility, and longevity."
+  },
+  {
+    "id": "APT_01",
+    "skill": "Aptitude",
+    "question": "A train running at 72 km/h crosses a pole in 15 seconds. What is the length of the train?",
+    "options": [
+      "250 meters",
+      "300 meters",
+      "350 meters",
+      "200 meters"
+    ],
+    "correct_answer": "B",
+    "explanation": "Speed = 72 * (5/18) = 20 m/s. Length = Speed * Time = 20 * 15 = 300 meters."
+  },
+  {
+    "id": "APT_02",
+    "skill": "Aptitude",
+    "question": "If A can complete a work in 10 days and B in 15 days, in how many days can both complete it working together?",
+    "options": [
+      "5 days",
+      "6 days",
+      "8 days",
+      "7.5 days"
+    ],
+    "correct_answer": "B",
+    "explanation": "Combined rate = 1/10 + 1/15 = 5/30 = 1/6. Hence, 6 days."
+  },
+  {
+    "id": "APT_03",
+    "skill": "Aptitude",
+    "question": "Find the next number in the series: 3, 7, 15, 31, 63, ...",
+    "options": [
+      "95",
+      "127",
+      "120",
+      "125"
+    ],
+    "correct_answer": "B",
+    "explanation": "Pattern: Multiply by 2 and add 1 (x * 2 + 1). 63 * 2 + 1 = 127."
+  },
+  {
+    "id": "APT_04",
+    "skill": "Aptitude",
+    "question": "A shopkeeper sells an article for $480 at a profit of 20%. What was the cost price?",
+    "options": [
+      "$380",
+      "$400",
+      "$420",
+      "$440"
+    ],
+    "correct_answer": "B",
+    "explanation": "Selling Price = 1.20 * CP => CP = 480 / 1.2 = $400."
+  },
+  {
+    "id": "APT_05",
+    "skill": "Aptitude",
+    "question": "In a class of 60 students, 40% are girls. How many boys are there in the class?",
+    "options": [
+      "24",
+      "36",
+      "30",
+      "28"
+    ],
+    "correct_answer": "B",
+    "explanation": "Girls = 60 * 0.40 = 24. Boys = 60 - 24 = 36 boys."
+  },
+  {
+    "id": "APT_06",
+    "skill": "Aptitude",
+    "question": "Find the odd one out: 27, 64, 125, 144, 216",
+    "options": [
+      "64",
+      "125",
+      "144",
+      "216"
+    ],
+    "correct_answer": "C",
+    "explanation": "27=3^3, 64=4^3, 125=5^3, 216=6^3 are perfect cubes. 144 is 12^2 (not a cube)."
+  },
+  {
+    "id": "APT_07",
+    "skill": "Aptitude",
+    "question": "If 'CAT' is coded as '3120', how is 'DOG' coded using alphabetical positional values (A=1, B=2...)?",
+    "options": [
+      "4157",
+      "4147",
+      "3157",
+      "4167"
+    ],
+    "correct_answer": "A",
+    "explanation": "D=4, O=15, G=7 => 4157."
+  },
+  {
+    "id": "APT_08",
+    "skill": "Aptitude",
+    "question": "A bag contains 5 red, 4 blue, and 3 green marbles. What is the probability of randomly drawing a blue marble?",
+    "options": [
+      "1/3",
+      "4/12 (1/3)",
+      "5/12",
+      "1/4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Total marbles = 5 + 4 + 3 = 12. P(Blue) = 4/12 = 1/3."
+  },
+  {
+    "id": "APT_09",
+    "skill": "Aptitude",
+    "question": "The average of 5 consecutive odd numbers is 25. What is the smallest of these numbers?",
+    "options": [
+      "21",
+      "23",
+      "25",
+      "19"
+    ],
+    "correct_answer": "A",
+    "explanation": "Consecutive odd numbers centered at 25: 21, 23, 25, 27, 29. Smallest is 21."
+  },
+  {
+    "id": "APT_10",
+    "skill": "Aptitude",
+    "question": "A sum of $1,000 is invested at 10% per annum simple interest for 3 years. What is the total interest earned?",
+    "options": [
+      "$300",
+      "$331",
+      "$250",
+      "$310"
+    ],
+    "correct_answer": "A",
+    "explanation": "SI = (P * R * T) / 100 = (1000 * 10 * 3) / 100 = $300."
+  },
+  {
+    "id": "APT_11",
+    "skill": "Aptitude",
+    "question": "If North becomes South-East, what does West become?",
+    "options": [
+      "North-East",
+      "South-West",
+      "North-West",
+      "East"
+    ],
+    "correct_answer": "A",
+    "explanation": "Turning 135 degrees clockwise: West + 135 deg clockwise = North-East."
+  },
+  {
+    "id": "APT_12",
+    "skill": "Aptitude",
+    "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' Who is she to the man?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Aunt",
+      "Niece"
+    ],
+    "correct_answer": "B",
+    "explanation": "Grandfather's only son is the man's father. Father's daughter is his sister."
+  },
+  {
+    "id": "APT_13",
+    "skill": "Aptitude",
+    "question": "Two dice are thrown simultaneously. What is the probability of getting a sum equal to 7?",
+    "options": [
+      "1/6",
+      "1/12",
+      "5/36",
+      "7/36"
+    ],
+    "correct_answer": "A",
+    "explanation": "Pairs summing to 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 outcomes. 6/36 = 1/6."
+  },
+  {
+    "id": "APT_14",
+    "skill": "Aptitude",
+    "question": "What is 15% of 240 plus 25% of 120?",
+    "options": [
+      "66",
+      "60",
+      "72",
+      "68"
+    ],
+    "correct_answer": "A",
+    "explanation": "15% of 240 = 36. 25% of 120 = 30. 36 + 30 = 66."
+  },
+  {
+    "id": "APT_15",
+    "skill": "Aptitude",
+    "question": "A pipe can fill a tank in 4 hours, while another pipe empties it in 6 hours. If both are opened, how long to fill the tank?",
+    "options": [
+      "10 hours",
+      "12 hours",
+      "8 hours",
+      "15 hours"
+    ],
+    "correct_answer": "B",
+    "explanation": "Net rate = 1/4 - 1/6 = (3 - 2)/12 = 1/12. Time = 12 hours."
+  },
+  {
+    "id": "APT_16",
+    "skill": "Aptitude",
+    "question": "In how many different ways can the letters of the word 'DATA' be arranged?",
+    "options": [
+      "24",
+      "12",
+      "6",
+      "4"
+    ],
+    "correct_answer": "B",
+    "explanation": "Word length = 4, 'A' repeats twice. Permutations = 4! / 2! = 24 / 2 = 12 ways."
+  },
+  {
+    "id": "APT_17",
+    "skill": "Aptitude",
+    "question": "A car travels the first half of a journey at 40 km/h and the second half at 60 km/h. What is the average speed?",
+    "options": [
+      "50 km/h",
+      "48 km/h",
+      "52 km/h",
+      "45 km/h"
+    ],
+    "correct_answer": "B",
+    "explanation": "Harmonic mean: 2 * S1 * S2 / (S1 + S2) = 2 * 40 * 60 / 100 = 48 km/h."
+  },
+  {
+    "id": "APT_18",
+    "skill": "Aptitude",
+    "question": "Complete the analogy: Book : Pages :: Library : ?",
+    "options": [
+      "Librarian",
+      "Books",
+      "Shelves",
+      "Reading"
+    ],
+    "correct_answer": "B",
+    "explanation": "A book is composed of pages; a library is composed of books."
+  },
+  {
+    "id": "APT_19",
+    "skill": "Aptitude",
+    "question": "If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 100 minutes?",
+    "options": [
+      "100",
+      "5",
+      "20",
+      "50"
+    ],
+    "correct_answer": "B",
+    "explanation": "1 cat catches 1 mouse in 5 minutes. In 100 minutes, 1 cat catches 20 mice. To catch 100 mice: 100 / 20 = 5 cats."
+  },
+  {
+    "id": "APT_20",
+    "skill": "Aptitude",
+    "question": "At what time between 3 and 4 o'clock will the hands of a clock be together (overlap)?",
+    "options": [
+      "3:15:00",
+      "16 and 4/11 minutes past 3",
+      "15 and 5/11 minutes past 3",
+      "3:18:00"
+    ],
+    "correct_answer": "B",
+    "explanation": "Theta = |30H - 5.5M| = 0 => 30*3 = 5.5M => M = 90 / 5.5 = 180 / 11 = 16 4/11 minutes past 3."
+  }
+]
